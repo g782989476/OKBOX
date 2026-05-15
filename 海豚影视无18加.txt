@@ -2,8 +2,12 @@
   "spider": "./tvbox.jar",  
   "sites": [
     {
-      "key": "聚合直播",
-      "name": "聚合直播"
+      "key": "卧龙影视",
+      "name": "聚合直播",
+      "type": 0,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
     }
 ],
     "parses": [ 
