@@ -17,7 +17,7 @@
         "type": 1,
         "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         }
         ],
     "parses": [ 
