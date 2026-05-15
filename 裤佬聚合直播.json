@@ -1,6 +1,6 @@
 {
   "spider": "./tvbox.jar",
-  "live": [
+  "lives": [
     {
       "name": "裤佬TV直播",
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
