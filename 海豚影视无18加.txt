@@ -1,5 +1,4 @@
-{
-  "spider": "./tvbox.jar",  
+{ 
   "sites": [
     {
       "key": "卧龙影视",
