@@ -700,27 +700,5 @@
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         }
-        {
-      "name": "裤佬TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"   
-        },
-        {
-      "name": "日后TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://rihou.cc:555/gggg.nzk" 
-        },
-        {
-      "name": "海外TV直播{翻}",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
-     
-        }
     ]
 }
