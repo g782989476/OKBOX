@@ -1,13 +1,8 @@
 {
-    "spider": "./tvbox.jar",
     "sites": [
     {
-      "key": "卧龙影视",
-      "name": "🐬卧龙影视｜追剧",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
+      "key": "聚合直播",
+      "name": "聚合直播"
     }
 ],
     "parses": [ 
