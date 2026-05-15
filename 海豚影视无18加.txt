@@ -23,7 +23,7 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
         }
-]
+],
     "parses": [ 
            {
              "name": "虾米解析",
