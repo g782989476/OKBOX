@@ -47,7 +47,7 @@
         "科幻片",
         "战争片",
         "奇幻片",
-        "喜剧片",
+        "喜剧片"，
         "爱情片",
         "恐怖片",
         "犯罪片",
@@ -59,7 +59,7 @@
         "动作片",
         "日本剧",
         "泰剧",
-        "国产综艺",
+        "国产综艺"，
         "港台综艺",
         "欧美综艺",
         "日韩综艺",
@@ -72,7 +72,7 @@
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
       "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "api": "http://sdzyapi.com/api.php/provide/vod/"，
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -123,7 +123,7 @@
                 "剧情片",
                 "战争片",
                 "动画片",
-                "纪录片",
+                "纪录片"，
                 "预告片",
                 "邵氏电影",
                 "4K电影",
@@ -147,12 +147,12 @@
                 "反转爽剧",
                 "古装仙侠",
                 "年代穿越",
-                "脑洞悬疑",
-                "现代都市",
+                "脑洞悬疑"，
+                "现代都市"，
                 "演唱会",
                 "大陆综艺",
                 "日韩综艺",
-                "港台综艺",
+                "港台综艺"，
                 "欧美综艺",
                 "篮球",
                 "足球"
@@ -358,7 +358,7 @@
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
     }
   }
-},
+}，
 {"name":"云解析",
         "type":0,
         "url":"https://yparse.ik9.cc/index.php?url=",
@@ -699,7 +699,7 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
-        }
+        },
         {
       "name": "裤佬TV直播",
       "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
