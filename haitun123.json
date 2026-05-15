@@ -1,5 +1,9 @@
 {
-    "parses": [ 
+    "spider": "./tvbox.jar",
+    "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
+    "wallpaper":"http://tool.teyonds.com/api",
+    "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉", 
+	"parses": [ 
            {
              "name": "虾米解析",
              "type": 0,
@@ -47,7 +51,7 @@
 }，
 {"name":"云解析",
         "type":0,
-        "url":"https://yparse.ik9.cc/index.php?url=",
+        "url":"https://yparse.ik9.cc/index.php?url="，
         "ext":{
         "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
                 }
@@ -59,7 +63,7 @@
 			"url": "https://rizzon.in/wp-content/json.php?url=",
 			"ext": {
 				"flag": [
-					"qq",
+					"qq"，
 					"腾讯",
 					"qiyi",
 					"爱奇艺",
@@ -385,27 +389,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
-        },
-        {
-      "name": "裤佬TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"   
-        },
-        {
-      "name": "日后TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://rihou.cc:555/gggg.nzk" 
-        },
-        {
-      "name": "海外TV直播{翻}",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"   
         }
     ]
 }
