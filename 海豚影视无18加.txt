@@ -214,13 +214,13 @@
          {
             "name": "🐬各大源合集",
             "type": 0,
-            "ua": "okhttp/5.3.2",
+            "ua": "",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
         {
             "name": "🐬Mytv",
             "type": 0,
-            "ua": "okhttp",
+            "ua": "",
             "url": "https://cdn.qd.je/live.m3u"
         }
     ]
