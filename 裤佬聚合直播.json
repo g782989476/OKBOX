@@ -1,4 +1,5 @@
 {
+  "spider": "./tvbox.jar",
   "live": [
     {
       "name": "裤佬TV直播",
