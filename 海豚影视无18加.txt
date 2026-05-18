@@ -171,46 +171,7 @@
       ]
     }
    ],
-    "ads": [
-        "static-mozai.4gtv.tv"
-    ],
 "lives": [
-         {
-			"name": "大洋马直播",
-			"type": 0,
-			"url": "./lib/deyzb.m3u",
-			"ua": ""
-		},
-		{
-			"name": "大秀直播",
-			"type": 0,
-			"url": "./lib/dxzb.m3u",
-			"ua": ""
-		},
-		{
-			"name": "欧美直播",
-			"type": 0,
-			"url": "./lib/omzb.m3u",
-			"ua": ""
-		},
-		{
-			"name": "国产系列",
-			"type": 0,
-			"url": "./lib/hsck_gc.m3u",
-			"ua": ""
-		},
-		{
-			"name": "日韩系列",
-			"type": 0,
-			"url": "./lib/hsck_rh.m3u",
-			"ua": ""
-		},
-		{
-			"name": "色播聚合",
-			"type": 0,
-			"url": "./lib/sbjh.m3u",
-			"ua": ""
-		},
          {
             "name": "🐬各大源合集",
             "type": 0,
