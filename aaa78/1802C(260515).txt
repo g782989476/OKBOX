@@ -2,16 +2,15 @@
 	"sites": [
 		{
 			"key": "cmjh",
-			"name": "✈️关注裤佬TG频道@stymei",
+			"name": "🔞麻豆",
 			"type": 1,
 			"api": "https://19q.cc/api.php/provide/vod",
 			"searchable": 1,
-			"quickSearch": 1,
-			"categories": ["✈️TG频道@stymei1"]
+			"quickSearch": 1
 		},
 		{
 			"key": "XOJAV",
-			"name": "XOJAV",
+			"name": "🔞XOJAV",
 			"jar": "./jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
@@ -55,8 +54,7 @@
 					}
 				}
 			}
-		},
-        
+		},        
         {
             "key": "JAVSB",
             "name": "🔞JAVSB",
@@ -94,7 +92,6 @@
             "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
                  }
         },
-
 		{
           "key": "醒吧",
           "name": "🔞杏吧",
@@ -139,7 +136,6 @@
           "searchable": 1,
           "quickSearch": 1
         },
-
 		{
 			"key": "askzy",
 			"name": "🔞奥斯卡",
