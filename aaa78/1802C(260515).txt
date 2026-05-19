@@ -56,6 +56,90 @@
 				}
 			}
 		},
+        
+        {
+            "key": "JAVSB",
+            "name": "🔞JAVSB",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "主页url": "https://jav.sb/",
+                "直接播放": "1",
+                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#欧美$Western_Porn"
+            }
+        },
+        {
+          "key": "jap影網",
+          "name": "🔞6av┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": {
+            "主页url": "https://www.1av.shop/vodtype/25.html",
+            "播放数组":"mod play-list&&</ul",
+            "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+            "链接": "href=\"&&\"",
+            "标题": "alt=\"&&\"",
+            "直接播放":"1",
+            "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+            "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+                 }
+        },
+
+		{
+          "key": "醒吧",
+          "name": "🔞杏吧",
+          "type": 0,
+          "api": "https://sex8zy7.com/api.php/provide/vod/at/xml",
+          "searchable": 1,
+          "changeable": 1,
+          "playurl": "json:https://xbww888.com/?url="
+        },
+        {
+          "key": "kuai",
+          "name": "🔞快播",
+          "type": 0,
+          "api": "https://gayapi.com/api.php/provide/vod/at/xml",
+          "searchable": 1,
+          "changeable": 1,
+          "playurl": "json:https://gayzyjiexi.com/play/?url="
+        },   
+        {
+          "key":"辣椒",
+          "name":"🔞辣椒(直连)",
+          "type":0,
+          "api":"http://api.11bat.com/api.php/provide/vod/at/xml/",
+          "quickSearch":1,
+          "searchable":1,
+          "filterable":1
+        },
+        {
+          "key": "zp011",
+          "name": "🔞78资源",
+          "type": 1,
+          "api": "https://lbapi9.com/api.php/provide/vod/",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0
+        },
+        {      
+          "key": "fh资源",
+          "name": "🔞FH",
+          "type": 1,
+          "api": "http://fhapi9.com/api.php/provide/vod/",
+          "searchable": 1,
+          "quickSearch": 1
+        },
+
 		{
 			"key": "askzy",
 			"name": "🔞奥斯卡",
