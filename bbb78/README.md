@@ -6,6 +6,11 @@
     GzKldb
     更新时间：2026/5/17
     加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/GzKlDb.txt"
+
+    02
+    KlJhDb
+    更新时间：2026/5/17
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/KlJhDb
     
 #直播
 
