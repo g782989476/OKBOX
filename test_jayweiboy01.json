@@ -6,7 +6,7 @@
             "key":"miss",
             "name":"MISS", 
             "type": 3, 
-            "api": "csp_miss",
+            "api": "csp_Miss",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
