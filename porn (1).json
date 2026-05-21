@@ -57,9 +57,9 @@
             "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/pornhub.js"
         },
       {
-            "key":"taiav"，
+            "key":"taiav",
             "name": "taiav",
-            "type": 3,
+            "type": 3，
             "api": "csp_taiav",
             "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/taiav.js"
         },
