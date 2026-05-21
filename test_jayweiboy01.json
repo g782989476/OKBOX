@@ -5,7 +5,7 @@
     {
             "key":"miss",
             "name":"MISS", 
-            "type": 3, 
+            "type": 0, 
             "api": "csp_T4",
             "searchable": 0,
             "quickSearch": 0,
