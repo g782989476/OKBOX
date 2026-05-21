@@ -1,0 +1,64 @@
+{
+    "sites": [
+        {
+            "name": "madou", 
+            "type": 1, 
+            "api": "csp_madou",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/madou.js"
+        },
+        {
+            "name": "EXPORNTOONS", 
+            "type": 1, 
+            "api": "csp_EXPORNTOONS",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/EXPORNTOONS.js"
+        }
+        {
+            "name": "jable", 
+            "type": 1, 
+            "api": "csp_jable",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/jable.js"
+        },
+        {
+            "name": "javxx", 
+            "type": 1, 
+            "api": "csp_javxx",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/javxx.js"
+        },
+        {
+            "name": "harunasan", 
+            "type": 1, 
+            "api": "csp_harunasan",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/harunasan.js"
+        },
+        {
+            "name": "avdb",
+            "type": 1,
+            "api": "csp_avdb",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/avdb.js"
+        },
+      {
+            "name": "missav",
+            "type": 1,
+            "api": "csp_missav",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/missav.js"
+        },
+      {
+            "name": "pornhub",
+            "type": 1,
+            "api": "csp_pornhub",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/pornhub.js"
+        },
+      {
+            "name": "taiav",
+            "type": 1,
+            "api": "csp_taiav",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/taiav.js"
+        }
+         {
+            "name": "beeg",
+            "type": 1,
+            "api": "csp_beeg",
+            "ext": "https://raw.githubusercontent.com/imeiking/porn/refs/heads/main/beeg.js"
+        }
+    ]
+}
