@@ -59,7 +59,7 @@
       "type": 3,
       "api": "csp_T4",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1,
       "changeable": 0,
       "style": {
@@ -78,7 +78,7 @@
       "filterable": 1,
       "changeable": 0,
       "style": {
-        "type": "rect"，
+        "type": "rect",
         "ratio": 1.33
       },
       "ext": "https://app.tang.hz.cz/vod/madou"
