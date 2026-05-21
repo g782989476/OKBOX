@@ -29,8 +29,8 @@
                     
   #ADULT 直播
   
-      XXC(250515)
-          01关注："yf2025/yiyifafa.txt"
+      XXC
+          01关注："yf2025/yiyifafa.txt" , "FG/安博.txt"
           
       XXM(250515)
           01关注："https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html"
