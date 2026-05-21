@@ -50,7 +50,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.33
-      }，
+      },
       "ext": "https://app.tang.hz.cz/vod/javday"
     },
     {
@@ -78,7 +78,7 @@
       "filterable": 1,
       "changeable": 0,
       "style": {
-        "type": "rect",
+        "type": "rect"，
         "ratio": 1.33
       },
       "ext": "https://app.tang.hz.cz/vod/madou"
