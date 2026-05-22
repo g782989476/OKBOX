@@ -18,7 +18,10 @@
         01关注：“yinshiyuan/tv18.json"
 
     18Db_NSFW-Spiders-index.json
-        01关注：“NSFW-Spiders/index.json"
+        01关注："NSFW-Spiders/index.json"
+
+    18Db_TV-BOX-ChunFuLi.json
+        01关注："TV-BOX/纯福利/纯福利.json"
                     
     Adult AvDb
         01关注："失效不补"
