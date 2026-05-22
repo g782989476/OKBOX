@@ -48,7 +48,7 @@
 },
     	
 {
-"key": "快播HD",
+"key": "快播HD"，
 "name": "快播影视",
 "type": 3,
 "api": "csp_XBPQ",
@@ -59,7 +59,7 @@
       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\"",
+      "标题": "title=\"&&\""，
 	  "副标题": " <span class=\"badge-innovation\">&&</span>",
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -265,7 +265,7 @@
       "分类标题": "<p class=\"txt-ov\">&&</",
       "分类ID":"/frim/&&.html"
       }
-}，
+},
 
 {
 "key": "猫咪视频 ",
