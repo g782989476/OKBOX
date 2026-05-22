@@ -52,14 +52,14 @@
 "name": "快播影视",
 "type": 3,
 "api": "csp_XBPQ",
-"searchable": 1，
+"searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "ext":{
       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\""，
+      "标题": "title=\"&&\"",
 	  "副标题": " <span class=\"badge-innovation\">&&</span>",
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -112,7 +112,7 @@
       //"数组":"<div class=\"img-box cover-md\">&&</h6>"，
       "数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
       "图片":"data-original=\"&&\"",
-      "标题":"<h6 class=\"title\">&&</a>",
+      "标题":"<h6 class=\"title\">&&</a>"，
       "链接":"href=\"&&\"",
       "副标题": "\"ml-3 mr-1\"*>&&</p>",
       "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
@@ -369,12 +369,12 @@
 	  "线路数组":">线路：&&<section class=\"sectionContent below_path_content\">",
 	  "播放数组":">线路：&&<section class=\"sectionContent below_path_content\">",
 	  "播放列表": "<a&&a>",
-	  "播放标题": ">&&</",
+	  "播放标题": ">&&</"，
 	  "播放链接": "href=\"&&\"",
 	  "搜索模式":"1",
       "搜索url":"https://www.11av.app/vodsearch/{wd}/page/{pg}.html",
-	  "搜索链接前缀":"https://www.11av.app/vodplay/",
-      "搜索链接后缀":"-1-1.html",
+	  "搜索链接前缀":"https://www.11av.app/vodplay/"，
+      "搜索链接后缀":"-1-1.html"，
       "分类url": "https://www.11av.app/vodtype/{cateId}-{catePg}.html",
 	  "分类数组": "<a&&a>",
       "分类标题": ">&&</",
@@ -412,7 +412,7 @@
       "分类标题": ">&&</",
       "分类ID": "/vodtype/&&.html"
       }
-},
+}，
 
 {
 "key": "444.coffee",
@@ -587,10 +587,10 @@
 { 
 "key": "AAA影院",
 "name": "AAA影院",
-"type": 3,
-"api": "csp_XBPQ",
+"type": 3，
+"api": "csp_XBPQ"，
 "searchable": 1,
-"quickSearch": 1,
+"quickSearch": 1，
 "filterable": 1,
 "ext":{
       "数组": "class=\"video-pic loading\"&&</a>",
@@ -630,7 +630,7 @@
  
 { 
 "key": "javday.app",
-"name": "Javday",
+"name": "Javday"，
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -674,7 +674,7 @@
       "分类url": "https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
       "分类": "字幕あり$字幕あり"
       }
-}，
+},
   
 { 
 "key": "qinav.com",
@@ -768,7 +768,7 @@
 },
   
 {
-"key":"javbus.sbs-",
+"key":"javbus.sbs-"，
 "name":"Javbus",
 "type":3,
 "api":"csp_XBPQ",
