@@ -210,7 +210,7 @@
  
 {
 "key": "幸运机场",
-"name": "幸运机场"，
+"name": "幸运机场",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -294,7 +294,7 @@
   
 {
 "key": "91视频",
-"name": "91视频",
+"name": "91视频"，
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -442,7 +442,7 @@
 "name":"Javhuge",
 "type":3,
 "api":"csp_XBPQ",
-"searchable":1，
+"searchable":1,
 "quickSearch":1,
 "filterable":1,
 "ext":{ 
@@ -493,7 +493,7 @@
       "播放数组":"<ul class=\"myui-content__list&&</ul>",
       "播放列表":"<a&&/a>",
       "播放标题":">&&<",
-      "播放链接":"href=\"&&\""，
+      "播放链接":"href=\"&&\"",
       "跳转播放": "<iframe src=\"&&\"",
       "分类url": "https://tmav.art/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/"
       }
