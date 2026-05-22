@@ -52,14 +52,14 @@
 "name": "快播影视",
 "type": 3,
 "api": "csp_XBPQ",
-"searchable": 1,
+"searchable": 1，
 "quickSearch": 1,
 "filterable": 1,
 "ext":{
       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\"",
+      "标题": "title=\"&&\""，
 	  "副标题": " <span class=\"badge-innovation\">&&</span>",
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -184,7 +184,7 @@
 "filterable":1,
 "ext":{ 
       "站名":"色花堂",
-      "主页url":"https://3taoav.com/"，
+      "主页url":"https://3taoav.com/",
        //"数组":"<div class=\"img-box cover-md\">&&</h6>",
       "数组":"\"img-box cover-md\"&&\"img-box cover-md\"",
       "图片": "data-original=\"&&\"",
@@ -674,7 +674,7 @@
       "分类url": "https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
       "分类": "字幕あり$字幕あり"
       }
-},
+}，
   
 { 
 "key": "qinav.com",
