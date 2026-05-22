@@ -16,6 +16,9 @@
         
     18Db_yinshiyuan-tv18.json
         01关注：“yinshiyuan/tv18.json"
+
+    18Db_NSFW-Spiders-index.json
+        01关注：“NSFW-Spiders/index.json"
                     
     Adult AvDb
         01关注："失效不补"
