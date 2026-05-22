@@ -3,7 +3,7 @@
 
 "logo":"https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
 
-"sites":[		
+"sites":[
 {
 "key":"闭月羞花",
 "name":"闭月羞花",
@@ -34,24 +34,24 @@
 "filterable":1,
 "ext":{
 "数组":"<liclass=\"col-25&&</li>",
-"图片":"src=\"&&\""，
-"标题":"title=\"&&\""，
-"副标题":"</small><small>&&</small>"，
+"图片":"src=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"</small><small>&&</small>",
 "链接":"href=\"&&\"",
-"直接播放":"1"，
-"搜索模式":"1"，
+"直接播放":"1",
+"搜索模式":"1",
 "简介":"★本站公告★：合理安排时间看片,享受健康生活。撸一撸可以但是注意身体！！",
 "分类":"制服诱惑$8#女优在线$13#强奸乱伦$7#中文字幕$2#亚洲有码$4#日本无码$5#AV解说$16",
 "分类url":"https://ceotv944.click/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-	}
+}
 },
-	
+
 {
-"key":"快播HD"，
+"key":"快播HD",
 "name":"快播影视",
 "type":3,
 "api":"csp_XBPQ",
-"searchable":1，
+"searchable":1,
 "quickSearch":1,
 "filterable":1,
 "ext":{
@@ -59,19 +59,19 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<spanclass=\"badge-innovation\">&&</span>",
-	"简介":"★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体"，
+"副标题":"<spanclass=\"badge-innovation\">&&</span>",
+"简介":"★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
 "线路数组":"<divclass=\"play-line-listclearfix\">&&</div>",
-	"线路标题":"<span>&&</span>",
-	"播放数组":"<divclass=\"play-line-listclearfix\">&&</div>",
-	"播放列表":"<a&&</a>",
-	"播放标题":"<span>&&</span>",
-	"播放链接":"href=\"&&\"",
-	"跳转播放链接":"varplayer_*\"url\":\"&&\"",
-	"搜索模式":"1",
+"线路标题":"<span>&&</span>",
+"播放数组":"<divclass=\"play-line-listclearfix\">&&</div>",
+"播放列表":"<a&&</a>",
+"播放标题":"<span>&&</span>",
+"播放链接":"href=\"&&\"",
+"跳转播放链接":"varplayer_*\"url\":\"&&\"",
+"搜索模式":"1",
 "搜索url":"https://www.kuaibojq.com/vod/search/page/{Pg}/wd/{wd}",
 "分类url":"https://www.kuaibojq.com/maotype/{cateId}-{catePg}/",
-	"分类":"日本AV$71#制服诱惑$78#中文字幕$77#人妻熟女$85#自拍偷拍$98#美乳巨乳$96#强奸乱伦$94#探花明星$97"
+"分类":"日本AV$71#制服诱惑$78#中文字幕$77#人妻熟女$85#自拍偷拍$98#美乳巨乳$96#强奸乱伦$94#探花明星$97"
 }
 },
 
@@ -88,7 +88,7 @@
 "数组":"<divclass=\"item\">&&</div></a>",
 "图片":"src=\"https://15260401.top/&&\"",
 "链接":"href=\"&&\"",
-"标题":"alt=\"&&\""，
+"标题":"alt=\"&&\"",
 "副标题":"✨色即是空,空即是色✨",
 "直接播放":"1",
 "跳转播放链接":"varuul=\"&&\"",
@@ -96,7 +96,7 @@
 "分类":"视频一区$1#视频二区$2#视频三区$3"
 }
 },
-			
+
 {
 "key":"csp_xBP色花堂A",
 "name":"好看视频",
@@ -133,7 +133,7 @@
 "分类url":"https://mlqwnwx.com/typegaokk/{cateId}_{catePg}.html[https://mlqwnwx.com/typegaokk/{cateId}.html]"
 }
 },
-	
+
 {
 "key":"csp_xBP色花堂C",
 "name":"51视频",
@@ -218,16 +218,16 @@
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
 "简介":"★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
-	"线路数组":"<ahref=\"#playlist1\"&&</li>",
-	"线路标题":">幸运机场<",
-	"播放数组":"<ulclass=\"playlistlink-&&</ul>",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"搜索模式":"1",
+"线路数组":"<ahref=\"#playlist1\"&&</li>",
+"线路标题":">幸运机场<",
+"播放数组":"<ulclass=\"playlistlink-&&</ul>",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
+"搜索模式":"1",
 "搜索url":"https://xyjc4.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 "分类url":"https://xyjc4.cfd/frim/{cateId}-{catePg}.html",
-	"分类数组":"<li>&&</li>",
+"分类数组":"<li>&&</li>",
 "分类标题":">&&</a>",
 "分类ID":"/frim/&&.html"
 }
@@ -246,16 +246,16 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"alt=\"&&\"",
-	"副标题":"<small>&&</small>",
-	"简介":"★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
-	"播放数组":"<divclass=\"play-list\"&&</div>",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"搜索模式":"1",
+"副标题":"<small>&&</small>",
+"简介":"★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
+"播放数组":"<divclass=\"play-list\"&&</div>",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
+"搜索模式":"1",
 "搜索url":"https://ayg11.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 "分类url":"https://ayg11.cfd/frim/{cateId}-{catePg}.html",
-	"分类数组":"<liclass=\"col-m-6\">&&</li>",
+"分类数组":"<liclass=\"col-m-6\">&&</li>",
 "分类标题":"<pclass=\"txt-ov\">&&</",
 "分类ID":"/frim/&&.html"
 }
@@ -268,22 +268,22 @@
 "api":"csp_XBPQ",
 "filterable":1,
 "ext":{
-	"数组":"<aclass=\"thumbnail-link&&</div></div>",
-	"图片":"src=\"&&\"",
+"数组":"<aclass=\"thumbnail-link&&</div></div>",
+"图片":"src=\"&&\"",
 "标题":"alt=\"&&\"",
-	"副标题":"<fontcolor=\"red\">&&</font>",
-	"简介":"<spanclass=\"entry-date\">&&</span>",
-	"链接":"href=\"&&\"",
-	"播放数组":"<divclass=\"entry-content\">&&</div>",
-	"播放列表":"<a&&a>",
+"副标题":"<fontcolor=\"red\">&&</font>",
+"简介":"<spanclass=\"entry-date\">&&</span>",
+"链接":"href=\"&&\"",
+"播放数组":"<divclass=\"entry-content\">&&</div>",
+"播放列表":"<a&&a>",
 "播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"分类":"亚洲骑兵&日本精品&#中文字幕&精品推荐&强奸乱伦&巨乳美乳&人妻熟女&萝莉少女&制服丝袜&口交颜射&女优系列&恋腿狂魔&欺辱凌辱&东南亚AV&闷骚护士",
-	"搜索模式":"1",
-	"搜索url":"https://33.creatchina.com/public/api.php?app=search&q={wd}",
-	"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
-	}
+"播放链接":"href=\"&&\"",
+"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+"分类":"亚洲骑兵&日本精品&#中文字幕&精品推荐&强奸乱伦&巨乳美乳&人妻熟女&萝莉少女&制服丝袜&口交颜射&女优系列&恋腿狂魔&欺辱凌辱&东南亚AV&闷骚护士",
+"搜索模式":"1",
+"搜索url":"https://33.creatchina.com/public/api.php?app=search&q={wd}",
+"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
+}
 },
 
 {
@@ -299,17 +299,17 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<small>&&</small>",
-	"简介":"★本站公告★：合理安排时间看片,享受健康生活。撸一撸注意身体",
-	"播放数组":"<divclass=\"v_con_box\">&&</div>",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
+"副标题":"<small>&&</small>",
+"简介":"★本站公告★：合理安排时间看片,享受健康生活。撸一撸注意身体",
+"播放数组":"<divclass=\"v_con_box\">&&</div>",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
 "搜索url":"https://www.15av.me/vodsearch/{wd}/page/{pg}.html",
-	"搜索链接前缀":"https://www.15av.me/vodplay/",
+"搜索链接前缀":"https://www.15av.me/vodplay/",
 "搜索链接后缀":"-1-1.html",
 "分类url":"https://www.15av.me/vodtype/{cateId}-{catePg}.html",
-	"分类数组":"<liclass=\"col-3col-m-6mb15\">&&</li>",
+"分类数组":"<liclass=\"col-3col-m-6mb15\">&&</li>",
 "分类标题":"<p>&&</p>",
 "分类ID":"/vodtype/&&.html"
 }
@@ -329,23 +329,23 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<small>&&</small>",
-	"播放数组":"<divclass=\"clearfix\">&&</div>",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"搜索链接前缀":"https://www.55av.app/vodplay/",
+"副标题":"<small>&&</small>",
+"播放数组":"<divclass=\"clearfix\">&&</div>",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
+"搜索链接前缀":"https://www.55av.app/vodplay/",
 "搜索链接后缀":"-1-1.html",
-	"搜索模式":"1",
+"搜索模式":"1",
 "搜索url":"https://www.55av.app/vodsearch/{wd}/page/{pg}.html",
 "分类url":"https://www.55av.app/vodtype/{cateId}-{catePg}.html",
-	"分类数组二次截取":"<ulclass=\"rowrow-space10row-m-space8tx-column-20tx-column-20mb5\">&&</ul>",
-	"分类数组":"<a&&</a>",
+"分类数组二次截取":"<ulclass=\"rowrow-space10row-m-space8tx-column-20tx-column-20mb5\">&&</ul>",
+"分类数组":"<a&&</a>",
 "分类标题":"<p>&&</p>",
 "分类ID":"/vodtype/&&.html"
-	}
+}
 },
-	
+
 {
 "key":"11av.app",
 "name":"十一影视",
@@ -359,23 +359,23 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<spanclass=\"number\">&&</span>",
-	"线路数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
-	"播放数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"搜索模式":"1",
+"副标题":"<spanclass=\"number\">&&</span>",
+"线路数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
+"播放数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
+"搜索模式":"1",
 "搜索url":"https://www.11av.app/vodsearch/{wd}/page/{pg}.html",
-	"搜索链接前缀":"https://www.11av.app/vodplay/",
+"搜索链接前缀":"https://www.11av.app/vodplay/",
 "搜索链接后缀":"-1-1.html",
 "分类url":"https://www.11av.app/vodtype/{cateId}-{catePg}.html",
-	"分类数组":"<a&&a>",
+"分类数组":"<a&&a>",
 "分类标题":">&&</",
 "分类ID":"/vodtype/&&.html"
 }
 },
-		
+
 {
 "key":"17av.app",
 "name":"蜜桃影视",
@@ -389,20 +389,20 @@
 "图片":"src=\"&&\"",
 "链接":"href=\"&&\"",
 "标题":"title=\"&&\"",
-	"简介":"小撸怡情,大撸伤身！！",
-	"副标题":"<spanclass=\"number\">&&</span>",
+"简介":"小撸怡情,大撸伤身！！",
+"副标题":"<spanclass=\"number\">&&</span>",
 "线路数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
-	"线路标题":">福利线路<",
-	"播放数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
-	"播放列表":"<a&&a>",
-	"播放标题":">&&</",
-	"播放链接":"href=\"&&\"",
-	"搜索模式":"1",
+"线路标题":">福利线路<",
+"播放数组":">线路：&&<sectionclass=\"sectionContentbelow_path_content\">",
+"播放列表":"<a&&a>",
+"播放标题":">&&</",
+"播放链接":"href=\"&&\"",
+"搜索模式":"1",
 "搜索url":"https://www.17av.app/vodsearch/{wd}/page/{pg}.html",
-	"搜索链接前缀":"https://www.17av.app/vodplay/",
+"搜索链接前缀":"https://www.17av.app/vodplay/",
 "搜索链接后缀":"-1-1.html",
 "分类url":"https://www.17av.app/vodtype/{cateId}-{catePg}.html",
-	"分类数组":"<a&&a>",
+"分类数组":"<a&&a>",
 "分类标题":">&&</",
 "分类ID":"/vodtype/&&.html"
 }
@@ -420,11 +420,11 @@
 "数组":"<liid=\"post-*\"class=\"thumi\">&&</li>",
 "图片":"data-src=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"class=\"added\">&&</span>",
+"副标题":"class=\"added\">&&</span>",
 "链接":"href=\"&&\"",
-	"简介":"<divclass=\"embed-responsiveembed-responsive-16by9\">&&</div>",
+"简介":"<divclass=\"embed-responsiveembed-responsive-16by9\">&&</div>",
 "搜索url":"https://www.444.coffee/?post_type=post&s={wd}",
-	"直接播放":"1",
+"直接播放":"1",
 "分类":"中文字幕$中文字幕",
 "排序":"最新$newest#评分$rate",
 "分类url":"https://www.444.coffee/category/{cateId}/page/{catePg}?order={by}"
@@ -442,16 +442,16 @@
 "ext":{
 "主页url":"https://javhuge.com/",
 "数组":"class=\"myui-vodlist__box&&</div>",
-	"图片":"data-original=\"&&\"",
+"图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "简介":"description\"*content=\"&&",
 "链接":"href=\"&&\"",
 "分类":"视频1️⃣区$1#视频2️⃣区$2#视频3️⃣区$3#视频4️⃣区$4#视频5️⃣区$5",
-	"搜索url":"https://javhuge.com/vod/search/?wd={wd}&submit=",
+"搜索url":"https://javhuge.com/vod/search/?wd={wd}&submit=",
 "剧情":"国产自拍$国产自拍#欧美极品$欧美极品#日韩无码$日韩无码#韩有码$韩有码#中文字幕$中文字幕#极骚萝莉$极骚萝莉#三级自慰$三级自慰#重咸口味$重咸口味#童颜巨乳$童颜巨乳#高潮喷吹$高潮喷吹#激情口交$激情口交#绝美少女$绝美少女#首次亮相$首次亮相||主播直播$主播直播#亚洲无码$亚洲无码#亚洲有码$亚洲有码#中文字幕$中文字幕#巨乳美乳$巨乳美乳#91探花$91探花||骑兵有码$骑兵有码#步兵无码$步兵无码#三级剧情$三级剧情#名优中字$名优中字#无码破解$无码破解||制服丝袜$制服丝袜#群交淫乱$群交淫乱#无码专区$无码专区#偷拍自拍$偷拍自拍#巨乳美乳$巨乳美乳#中文字幕$中文字幕#国产自拍$国产自拍#国产盗摄$国产盗摄#伦理三级$伦理三级#少女萝莉$少女萝莉||麻豆传媒$麻豆传媒#无码专区$无码专区#熟女人妻$熟女人妻#强奸乱伦$强奸乱伦#巨乳美乳$巨乳美乳#中文字幕$中文字幕#制服诱惑$制服诱惑#国产自拍$国产自拍#萝莉少女$萝莉少女#多人群交$多人群交#女优明星$女优明星#三级伦理$三级伦理",
 "排序":"时间$time#人气$hits#评分$score",
-	"线路二次截取":"<ulclass=\"nav&&</ul>",
-	"线路数组":"data-toggle=\"tab\">&&/a>",
+"线路二次截取":"<ulclass=\"nav&&</ul>",
+"线路数组":"data-toggle=\"tab\">&&/a>",
 "线路名标题":">&&<",
 "播放数组":"<ulclass=\"myui-content__list&&</ul>",
 "播放列表":"<a&&/a>",
@@ -473,16 +473,16 @@
 "ext":{
 "主页url":"https://tmav.art/",
 "数组":"class=\"myui-vodlist__box&&</div>",
-	"图片":"data-original=\"&&\"",
+"图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "简介":"description\"*content=\"&&",
 "链接":"href=\"&&\"",
 "分类":"视频1️⃣区$1#视频2️⃣区$2#视频3️⃣区$3",
-	"搜索url":"https://tmav.art/vod/search/?wd={wd}&submit=",
+"搜索url":"https://tmav.art/vod/search/?wd={wd}&submit=",
 "剧情":"国产视频$国产视频#无码中文字幕$无码中文字幕#有码中文字幕$有码中文字幕#日本有码$日本有码#日本无码$日本无码||亚洲无码$亚洲无码#亚洲有码$亚洲有码#中文字幕$中文字幕#人妻熟女$人妻熟女||日本AV$日本AV",
 "排序":"时间$time#人气$hits#评分$score",
-	"线路二次截取":"<ulclass=\"nav&&</ul>",
-	"线路数组":"data-toggle=\"tab\">&&a>",
+"线路二次截取":"<ulclass=\"nav&&</ul>",
+"线路数组":"data-toggle=\"tab\">&&a>",
 "线路名标题":">&&</",
 "播放数组":"<ulclass=\"myui-content__list&&</ul>",
 "播放列表":"<a&&/a>",
@@ -510,7 +510,7 @@
 "图片":"data-src=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-	"分类":"视频一区$1#视频二区$2#AV$3#高清$4",
+"分类":"视频一区$1#视频二区$2#AV$3#高清$4",
 "剧情":"精品推荐$精品推荐#亚洲有码$亚洲有码#日本无码$日本无码#强奸乱伦$强奸乱伦#中文字幕$中文字幕#巨乳美乳$巨乳美乳#人妻熟女$人妻熟女#萝莉少女$萝莉少女#制服诱惑$制服诱惑#丝袜长腿$丝袜长腿#少女萝莉$少女萝莉||国产视频$国产视频#中文字幕$中文字幕#国产传媒$国产传媒#强奸乱伦$强奸乱伦#日本有码$日本有码#日本无码$日本无码#制服诱惑$制服诱惑#女优明星$女优明星#抖阴视频$抖阴视频||空||空",
 "分类url":"https://javrom.com/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
 }
@@ -529,17 +529,17 @@
 "数组":"<divclass=\"item\">&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<em>&&</em>",
+"副标题":"<em>&&</em>",
 "链接":"href=\"&&\"",
 "搜索url":"https://jvod.xyz/vod/search/?wd={wd}",
 "搜索数组":"<divclass=\"item\">&&</a>",
 "搜索标题":"title=\"&&\"",
 "搜索图片":"data-original=\"&&\"",
 "搜索链接":"href=\"&&\"",
-	"搜索副标题":"<em>&&</em>",
-	"搜索模式":"1",
-	"直接播放":"1",
-	"搜索后缀":"/vod/play/id/",
+"搜索副标题":"<em>&&</em>",
+"搜索模式":"1",
+"直接播放":"1",
+"搜索后缀":"/vod/play/id/",
 "搜索链接前缀":"https://jvod.xyz/vod/play/id/",
 "搜索链接后缀":"/sid/1/nid/1/",
 "分类":"视频一区$1#视频二区$2#视频三区$3",
@@ -560,23 +560,23 @@
 "数组":"<postsclass=\"posts-item&&</posts>",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
-	"副标题":"class=\"ml6\">&&</span>",
+"副标题":"class=\"ml6\">&&</span>",
 "链接":"href=\"&&\"",
 "搜索url":"https://shayuav.xyz/vod/search/page/{pg}/wd/{wd}",
-	"搜索模式":"1",
+"搜索模式":"1",
 "搜索数组":"<postsclass=\"posts-item&&</posts>",
 "搜索图片":"data-src=\"&&\"",
 "搜索标题":"alt=\"&&\"",
-	"搜索副标题":"class=\"ml6\">&&</span>",
+"搜索副标题":"class=\"ml6\">&&</span>",
 "搜索链接":"href=\"&&\"",
-	"直接播放":"1",
-	"搜索片单链接加前缀":"https://shayuav.xyz/vod/play/id/",
+"直接播放":"1",
+"搜索片单链接加前缀":"https://shayuav.xyz/vod/play/id/",
 "搜索片单链接加后缀":"/sid/1/nid/1/",
 "分类":"视频一区$1",
 "剧情":"精品推荐$精品推荐#国产情色$国产情色#网红主播$网红主播#国模私拍$国模私拍#中文字幕$中文字幕#日本无码$日本无码#日本YOU码$日本有码#长腿丝袜$长腿丝袜#邻家人妻$邻家人妻#韩国伦理$韩国伦理#精品推荐$精品推荐",
 "分类url":"https://shayuav.xyz/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
 }
-}，
+},
 
 {
 "key":"AAA影院",
@@ -593,9 +593,9 @@
 "副标题":"score\">&&</span>",
 "链接":"href=\"&&\"",
 "直接播放":"1",
-	"搜索模式":"1",
-	"搜索url":"https://www.dfjj91.com/vod/search/page/{pg}/wd/{wd}.html",
-	"嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+"搜索模式":"1",
+"搜索url":"https://www.dfjj91.com/vod/search/page/{pg}/wd/{wd}.html",
+"嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 "分类url":"https://www.dfjj91.com/maotype/{cateId}-{catePg}/",
 "分类":"中字$23#骑兵$22#步兵$21#大灯$25#人妻$26#制服$28#少女$32#日韩$37#萝莉$40"
 }
@@ -616,7 +616,7 @@
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
 "跳转播放":"<iframesrc=\"&&\"",
-	"直接播放":"1",
+"直接播放":"1",
 "分类":"bestvideo$best#Newvideo$video",
 "分类url":"https://memojav.com/categories/{cateId}/page-{catePg}"
 }
@@ -635,18 +635,18 @@
 "数组":"class=\"col-styled-4m-2lazyloaded\"&&</a>",
 "标题":"<spanclass=\"title\">&&</span>",
 "图片":"style=\"background-image:url(&&);\"",
-	"搜索模式":"1",
+"搜索模式":"1",
 "直接播放":"1",
 "嗅探词":"index.m3u8",
-	"搜索url":"https://javday.app/search/page/{pg}/wd/{wd}/",
-	"搜索后缀":"/videos/",
-	"搜索链接前缀":"https://javday.app",
+"搜索url":"https://javday.app/search/page/{pg}/wd/{wd}/",
+"搜索后缀":"/videos/",
+"搜索链接前缀":"https://javday.app",
 "搜索链接后缀":"/",
 "分类url":"https://javday.app/{cateId}/page/{catePg}/",
-	"分类":"新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll"
+"分类":"新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll"
 }
 },
-	
+
 {
 "key":"jav777",
 "name":"JAV777",
@@ -662,8 +662,8 @@
 "图片":"src=\"&&\"",
 "副标题":"class=\"post-date\"><ahref=\"*\">&&</a>",
 "链接":"href=\"&&\"",
-	"搜索url":"https://www.jav777.xyz/?s={wd}",
-	"搜索模式":"1",
+"搜索url":"https://www.jav777.xyz/?s={wd}",
+"搜索模式":"1",
 "直接播放":"1",
 "分类url":"https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
 "分类":"字幕あり$字幕あり"
@@ -684,9 +684,9 @@
 "图片":"img=\"&&\"",
 "副标题":"<spanclass=\"time\">&&</span>",
 "链接":"href=\"&&\"",
-	"跳转播放链接":"<iframe*src=\"&&\"",
-	"嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4",
-	"跳转解析":"https://play.dadiapi.com/watch?url=",
+"跳转播放链接":"<iframe*src=\"&&\"",
+"嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4",
+"跳转解析":"https://play.dadiapi.com/watch?url=",
 "直接播放":"1",
 "分类url":"https://www.qinav.com/home/site-{cateId}-{catePg}.html",
 "分类":"一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
@@ -701,17 +701,17 @@
 "filterable":1,
 "ext":{
 "主页url":"https://huaduys.com/",
-	"数组":"stui-vodlist__box\">&&</div></div>",
-	"图片":"data-original=\"&&\"",
+"数组":"stui-vodlist__box\">&&</div></div>",
+"图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
-	"简介":"description\"content=\"&&剧情",
-	"链接":"/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+"简介":"description\"content=\"&&剧情",
+"链接":"/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
 "直接播放":"1",
-	"分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10",
-	"搜索模式":"1",
-	"搜索url":"https://huaduys.com/vodsearch/-------------.html?wd={wd}",
-	"分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
-	}
+"分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10",
+"搜索模式":"1",
+"搜索url":"https://huaduys.com/vodsearch/-------------.html?wd={wd}",
+"分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
+}
 },
 
 {
@@ -723,18 +723,18 @@
 "filterable":1,
 "ext":{
 "数组":"class=\"myui-vodlist__box&&</div>",
-	"图片":"data-original=\"&&\"",
+"图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
-	"副标题":"<pclass=\"texttext-overflowtext-muted\"><span>&&</span>",
+"副标题":"<pclass=\"texttext-overflowtext-muted\"><span>&&</span>",
 "简介":"description\"*content=\"&&",
 "链接":"href=\"&&\"",
-	"播放数组":"class=\"navnav-tabsactive&&</ul>",
-	"播放列表":"<a&&a>",
-	"播放链接":"href=\"&&\"",
-	"播放标题":">&&</",
+"播放数组":"class=\"navnav-tabsactive&&</ul>",
+"播放列表":"<a&&a>",
+"播放链接":"href=\"&&\"",
+"播放标题":">&&</",
 "搜索模式":"1",
 "搜索url":"https://www.6av.co/vodsearch/-.html?wd={wd}&submit=",
-	"分类数组":"<aclass=\"text-333\"&&a>",
+"分类数组":"<aclass=\"text-333\"&&a>",
 "分类标题":">&&</",
 "分类ID":"/vodtype/&&.html",
 "分类url":"https://www.6av.co/vodtype/{cateId}-{catePg}.html"
@@ -742,7 +742,7 @@
 },
 {
 "key":"avgle.pro",
-"name":"Avgle"，
+"name":"Avgle",
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -750,14 +750,14 @@
 "filterable":1,
 "ext":{
 "数组":"card\">&&</div></div>",
-	"图片":"src=\"&&\"",
+"图片":"src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
-	"分类url":"https://www.avgle.pro/category/{cateId}/p/{catePg}",
+"分类url":"https://www.avgle.pro/category/{cateId}/p/{catePg}",
 "分类":"中文字幕$48#日本無碼$270#國產精品$249#強姦亂倫$13#日本有碼$269#國產情色$119#有碼精品$616#制服誘惑$92#站長推薦$625#亞洲有碼$105#蘿莉少女$103#無字幕視$633#無碼專區$254#最多觀看$627#AV明星$401#日韓無碼$259#巨乳美乳$93#最火影片$626#騎兵有碼$261#女優明星$438#無碼典藏$632#國產傳媒$390#亞洲無碼$64#美乳巨乳$111#童顏巨乳$125#亞洲情色$22#91探花$455#名優中字$37#鄰家人妻$273#巨乳中文$292#亂倫中文$290#人妻中文$289#制服中文$291#出軌中文$19#日本精品$467#高清名優$394",
 "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"直接播放":"1"
-	}
+"直接播放":"1"
+}
 },
 
 {
@@ -774,16 +774,16 @@
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "简介":"description\"*content=\"&&",
-	"链接":"href=\"&&\"",
-	"搜索数组二次截取":"<ulclass=\"myui-vodlist__mediaclearfix*>&&</ul>",
+"链接":"href=\"&&\"",
+"搜索数组二次截取":"<ulclass=\"myui-vodlist__mediaclearfix*>&&</ul>",
 "搜索数组":"<liclass=\"activeclearfix>&&</li>",
 "搜索标题":"title=\"&&\"",
 "搜索图片":"data-original=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索模式":"1",
 "搜索url":"https://javbus.sbs/vod/search/?wd={wd}&submit=",
-	"搜索后缀":"/vod/detail/id/",
-	"线路数组":"<ahref=\"#playlist&&</ul>",
+"搜索后缀":"/vod/detail/id/",
+"线路数组":"<ahref=\"#playlist&&</ul>",
 "线路标题":">&&</a>",
 "播放数组":"<ulclass=\"myui-content__list&&</ul>",
 "播放列表":"<a&&/a>",
@@ -846,7 +846,7 @@
 "嗅探词":".m3u8#.mp4",
 }
 },
-			
+
 {
 "key":"yubanghanzhu",
 "name":"玉蚌含珠",
@@ -863,8 +863,8 @@
 "链接":"/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
 "直接播放":"1"
 }
-},	
-						
+},
+
 {
 "key":"东京淫朕",
 "name":"京东银联",
@@ -885,17 +885,17 @@
 "副标题":"🍁",
 "简介":"description\"content=\"&&\"",
 "搜索模式":"1",
-	"搜索链接前缀":"https://m5n6o7p8.djyz33.cc/vodplay/",
+"搜索链接前缀":"https://m5n6o7p8.djyz33.cc/vodplay/",
 "搜索链接后缀":"-1-1.html",
-	"搜索后缀":"/voddetail/",
-	"链接是否直接播放":"1",
+"搜索后缀":"/voddetail/",
+"链接是否直接播放":"1",
 "搜索url":"https://m5n6o7p8.djyz33.cc/vodsearch/-------------.html?wd={wd}",
 "分类url":"/vodtype/{cateId}-{catePg}.html",
 "分类":"兔子先生&麻豆视频&91制片厂&皇家华人&精东影业&蜜桃传媒&天美传媒&星空传媒&大象传媒&萝莉社&玩偶姐姐&开心鬼传媒&杏吧原创&mini传媒&性视界&糖心Vlog&国产视频&中文字幕&日本无码&制服诱惑&强奸乱伦&国产传媒&欧美无码&日本有码&国产主播&明星换脸&抖阴视频&伦理三级&女优明星&AV解说&激情动漫&网曝黑料&网红头条&萝莉少女&VR视角&极品媚黑&SM调教&韩国主播&女同性恋&人妖系列&制服中文&强奸中文&巨乳中文&调教中文&无码中文&乱伦中文&出轨中文&人妻中文",
 "分类值":"30&21&22&25&27&24&23&26&34&38&32&35&31&33&39&37&40&41&44&47&46&42&45&43&48&50&51&54&52&55&49&53&60&57&63&58&56&62&59&61&148&145&146&150&144&147&151&149"
 }
-},				
-			
+},
+
 {
 "key":"多米尼奥",
 "name":"多米尼奥",
@@ -909,20 +909,20 @@
 "图片":"data-src=\"&&\"",
 "标题":"title=\"&&\"",
 "简介":"description\"content=\"&&\"",
-	"直接播放":"1",
-	"链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
+"直接播放":"1",
+"链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
 "嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-	"跳转播放链接":"varplayer_*\"url\":\"&&\"",
+"跳转播放链接":"varplayer_*\"url\":\"&&\"",
 "搜索url":"https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
-	"搜索数组":"<divclass=\"itemclearfix\">&&<divclass=\"v-pageclearfix\">",
+"搜索数组":"<divclass=\"itemclearfix\">&&<divclass=\"v-pageclearfix\">",
 "搜索图片":"src=\"&&\"",
 "搜索标题":"alt=\"&&\"",
 "搜索链接":"href=\"&&\"",
-	"搜索模式":"1",
-	"搜索后缀":"/dmndetail/",
-	"链接是否直接播放":"1",
+"搜索模式":"1",
+"搜索后缀":"/dmndetail/",
+"链接是否直接播放":"1",
 "分类url":"https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
-	"排序":"按更新$time#按人气$hits#按推荐$score",
+"排序":"按更新$time#按人气$hits#按推荐$score",
 "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"
 }
 },
@@ -953,7 +953,7 @@
 },
 "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"
 },
-		
+
 {
 "key":"19麻豆",
 "name":"台湾传媒",
@@ -963,10 +963,10 @@
 "站名":"麻豆视频",
 "主页url":"https://19q.cc/",
 "分类url":"https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-"分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界"，
+"分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界",
 "分类值":"1&2&3&4&5&6&7&8&9&10&20&21&22&23&24&25&29&26&27&28&30",
 "直接播放":"1",
-"嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos"，
+"嗅探词":"index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 "数组":"<li>&&</li>",
 "图片":"src=\"&&\"",
 "标题":"alt=\"&&\"",
