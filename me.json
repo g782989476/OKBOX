@@ -45,7 +45,7 @@
 	  "分类": "制服诱惑$8#女优在线$13#强奸乱伦$7#中文字幕$2#亚洲有码$4#日本无码$5#AV解说$16",
 	  "分类url":"https://ceotv944.click/index.php/vod/type/id/{cateId}/page/{catePg}.html"
 	  }
-},
+}，
     	
 {
 "key": "快播HD",
@@ -59,7 +59,7 @@
       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\"",
+      "标题": "title=\"&&\""，
 	  "副标题": " <span class=\"badge-innovation\">&&</span>"，
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -100,7 +100,7 @@
 		    	   
 {
 "key":"csp_xBP色花堂A",
-"name":"好看视频",
+"name":"好看视频"，
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -142,7 +142,7 @@
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
-"quickSearch":1,
+"quickSearch":1，
 "filterable":1,
 "ext":{ 
       "站名":"色花堂",
@@ -439,7 +439,7 @@
 
 {
 "key":"javhuge.com",
-"name":"Javhuge",
+"name":"Javhuge"，
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -470,7 +470,7 @@
 
 {
 "key":"tmav.art",
-"name":"天美影视"，
+"name":"天美影视",
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -488,7 +488,7 @@
       "剧情": "国产视频$国产视频#无码中文字幕$无码中文字幕#有码中文字幕$有码中文字幕#日本有码$日本有码#日本无码$日本无码||亚洲无码$亚洲无码#亚洲有码$亚洲有码#中文字幕$中文字幕#人妻熟女$人妻熟女||日本AV$日本AV",
       "排序": "时间$time#人气$hits#评分$score",
 	  "线路二次截取":"<ul class=\"nav&&</ul>",
-	  "线路数组":"data-toggle=\"tab\">&&a>"，
+	  "线路数组":"data-toggle=\"tab\">&&a>",
       "线路名标题":">&&</",
       "播放数组":"<ul class=\"myui-content__list&&</ul>",
       "播放列表":"<a&&/a>",
@@ -546,7 +546,7 @@
 	  "搜索模式": "1",
 	  "直接播放":"1",
 	  "搜索后缀":"/vod/play/id/",
-      "搜索链接前缀":"https://jvod.xyz/vod/play/id/",
+      "搜索链接前缀":"https://jvod.xyz/vod/play/id/"，
       "搜索链接后缀":"/sid/1/nid/1/",
       "分类":"视频一区$1#视频二区$2#视频三区$3",
       "剧情": "传媒精品$传媒精品||淫乱学生妹$淫乱学生妹#高清无码$高清无码#中文字幕$中文字幕#为国争光$为国争光#激情中字$激情中字||中文字幕$中文字幕",
@@ -559,8 +559,8 @@
 "name": "鲨鱼影视",
 "type": 3,
 "api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
+"searchable": 1，
+"quickSearch": 1，
 "filterable": 1,
 "ext":{
       "数组":"<posts class=\"posts-item&&</posts>", 
@@ -700,8 +700,9 @@
       }
 },
 
-{"key": "花都影视发布页地址：a.hdys.top a.hdys.xyz",
-"name": "花都🌸影视",
+{
+"key": "花都影视发布页地址：a.hdys.top a.hdys.xyz",
+"name": "花都影视",
 "type": 3,
 "api": "csp_XBPQ",
 "filterable": 1,
@@ -718,7 +719,7 @@
 	  "搜索url": "https://huaduys.com/vodsearch/-------------.html?wd={wd}",
 	  "分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
 	  }
-},
+}，
 
 {
 "key":"樱桃视频",
@@ -761,7 +762,7 @@
       "链接":"href=\"&&\"",
 	  "分类url":"https://www.avgle.pro/category/{cateId}/p/{catePg}",
       "分类":"中文字幕$48#日本無碼$270#國產精品$249#強姦亂倫$13#日本有碼$269#國產情色$119#有碼精品$616#制服誘惑$92#站長推薦$625#亞洲有碼$105#蘿莉少女$103#無字幕視$633#無碼專區$254#最多觀看$627#AV明星$401#日韓無碼$259#巨乳美乳$93#最火影片$626#騎兵有碼$261#女優明星$438#無碼典藏$632#國產傳媒$390#亞洲無碼$64#美乳巨乳$111#童顏巨乳$125#亞洲情色$22#91探花$455#名優中字$37#鄰家人妻$273#巨乳中文$292#亂倫中文$290#人妻中文$289#制服中文$291#出軌中文$19#日本精品$467#高清名優$394",
-      "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+      "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"，
 	  "直接播放":"1"  
 	  }
 },
@@ -769,11 +770,11 @@
 {
 "key":"javbus.sbs-",
 "name":"Javbus",
-"type":3,
+"type":3，
 "api":"csp_XBPQ",
 "searchable":1,
-"quickSearch":1,
-"filterable":1,
+"quickSearch":1，
+"filterable":1，
 "ext":{ 
       "主页url": "https://javbus.sbs/",
       "数组": "class=\"myui-vodlist__box&&</div>", 
@@ -800,7 +801,9 @@
       }
 },
 
-{"key":"javtree","name":"📀javtree📀",
+{
+"key":"javtree",
+"name":"Javtree",
 "type":3,"api":"csp_XBPQ",
 "searchable":1,
 "quickSearch":1,
@@ -821,8 +824,9 @@
       }
 },
 
-{"key": "jable",
-"name": "jable",
+{
+"key": "jable",
+"name": "Jable",
 "type": 3,
 "changeable": 1,
 "searchable": 1,
@@ -871,8 +875,8 @@
 			 			
 {
 "key":"东京淫朕",
-"name":"京东银联",
-"type":3,
+"name":"京东银联"，
+"type":3，
 "api":"csp_XBPQ",
 "searchable":1,
 "quickSearch":1,
@@ -898,11 +902,11 @@
       "分类": "兔子先生&麻豆视频&91制片厂&皇家华人&精东影业&蜜桃传媒&天美传媒&星空传媒&大象传媒&萝莉社&玩偶姐姐&开心鬼传媒&杏吧原创&mini传媒&性视界&糖心Vlog&国产视频&中文字幕&日本无码&制服诱惑&强奸乱伦&国产传媒&欧美无码&日本有码&国产主播&明星换脸&抖阴视频&伦理三级&女优明星&AV解说&激情动漫&网曝黑料&网红头条&萝莉少女&VR视角&极品媚黑&SM调教&韩国主播&女同性恋&人妖系列&制服中文&强奸中文&巨乳中文&调教中文&无码中文&乱伦中文&出轨中文&人妻中文",
       "分类值": "30&21&22&25&27&24&23&26&34&38&32&35&31&33&39&37&40&41&44&47&46&42&45&43&48&50&51&54&52&55&49&53&60&57&63&58&56&62&59&61&148&145&146&150&144&147&151&149"
       }
-},				
+}，				
 			
 { 
 "key": "多米尼奥", 
-"name": "🌟多米尼奥🌟",
+"name": "多米尼奥",
 "type": 3, 
 "api": "csp_XBPQ",
 "searchable": 1,
