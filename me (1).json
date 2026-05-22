@@ -33,21 +33,21 @@
 "api": "csp_XBPQ",
 "filterable": 1,
 "ext":{ 
-	  "数组": "<li class=\"col-25&&</li>", 
-	  "图片": "src=\"&&\"", 
-	  "标题": "title=\"&&\"", 
-	  "副标题": "</small><small>&&</small>", 
+	  "数组": "<li class=\"col-25&&</li>",
+	  "图片": "src=\"&&\""，
+	  "标题": "title=\"&&\""，
+	  "副标题": "</small><small>&&</small>"，
       "链接": "href=\"&&\"",
-	  "直接播放":"1", 
-	  "搜索模式": "1", 
-	  "简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
+	  "直接播放":"1"，
+	  "搜索模式": "1"，
+	  "简介":"★本站公告★：合理安排时间看片,享受健康生活。撸一撸可以  但是注意身体！！",
 	  "分类": "制服诱惑$8#女优在线$13#强奸乱伦$7#中文字幕$2#亚洲有码$4#日本无码$5#AV解说$16",
 	  "分类url":"https://ceotv944.click/index.php/vod/type/id/{cateId}/page/{catePg}.html"
 	  }
 },
     	
 {
-"key": "快播HD",
+"key": "快播HD"，
 "name": "快播影视",
 "type": 3,
 "api": "csp_XBPQ",
@@ -60,7 +60,7 @@
       "链接": "href=\"&&\"",
       "标题": "title=\"&&\"",
 	  "副标题": " <span class=\"badge-innovation\">&&</span>",
-	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
+	  "简介": "★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
 	  "线路标题": "<span>&&</span>",
 	  "播放数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -89,7 +89,7 @@
       "图片": "src=\"https://15260401.top/&&\"",
       "链接":"href=\"&&\"",
       "标题": "alt=\"&&\"",
-      "副标题": "✨色即是空，空即是色✨",
+      "副标题": "✨色即是空,空即是色✨",
       "直接播放": "1",
       "跳转播放链接": "var uul=\"&&\"",
       "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
@@ -113,7 +113,7 @@
       "标题":"<h6 class=\"title\">&&</a>",
       "链接":"href=\"&&\"",
       "副标题": "\"ml-3 mr-1\"*>&&</p>",
-      "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]"，
+      "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
       "线路标题":">&&</a>",
       "搜索url":"https://mlqwnwx.com/vodsearch/{wd}----------{pg}---.html",
       "搜索模式":"1",
@@ -135,7 +135,7 @@
 },
 	
 {
-"key":"csp_xBP色花堂C"，
+"key":"csp_xBP色花堂C",
 "name":"51视频",
 "type":3,
 "api":"csp_XBPQ",
@@ -216,8 +216,8 @@
       "数组":"<a class=\"videopic lazy\"&&</a>",
       "图片":"data-original=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\"", 
-      "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
+      "标题": "title=\"&&\"",
+      "简介": "★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
 	  "线路数组":"<a href=\"#playlist1\"&&</li>",
 	  "线路标题": ">幸运机场<",
 	  "播放数组":"<ul class=\"playlistlink-&&</ul>",
@@ -247,7 +247,7 @@
       "链接": "href=\"&&\"",
       "标题": "alt=\"&&\"",
 	  "副标题":"<small>&&</small>",
-	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
+	  "简介": "★本站公告★：合理安排时间看片,享受健康生活。小撸怡情,大撸伤身,注意身体",
 	  "播放数组":"<div class=\"play-list\"&&</div>",
 	  "播放列表": "<a&&a>",
 	  "播放标题": ">&&</",
@@ -271,16 +271,16 @@
 	  "数组": "<a class=\"thumbnail-link&&</div></div>",
 	  "图片": "src=\"&&\"",
       "标题":"alt=\"&&\"",
-	  "副标题": "<font color=\"red\">&&</font>", 
-	  "简介": "<span class=\"entry-date\">&&</span>",  
+	  "副标题": "<font color=\"red\">&&</font>",
+	  "简介": "<span class=\"entry-date\">&&</span>",
 	  "链接": "href=\"&&\"",
 	  "播放数组": "<div class=\"entry-content\">&&</div>",
 	  "播放列表": "<a&&a>",
       "播放标题":">&&</",
 	  "播放链接":"href=\"&&\"",
 	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	  "分类":"亚洲骑兵&日本精品&#中文字幕&精品推荐&强奸乱伦&巨乳美乳&人妻熟女&萝莉少女&制服丝袜&口交颜射&女优系列&恋腿狂魔&欺辱凌辱&东南亚AV&闷骚护士", 
-	  "搜索模式": "1", 
+	  "分类":"亚洲骑兵&日本精品&#中文字幕&精品推荐&强奸乱伦&巨乳美乳&人妻熟女&萝莉少女&制服丝袜&口交颜射&女优系列&恋腿狂魔&欺辱凌辱&东南亚AV&闷骚护士",
+	  "搜索模式": "1",
 	  "搜索url": "https://33.creatchina.com/public/api.php?app=search&q={wd}",
 	  "分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
 	  }
@@ -300,7 +300,7 @@
       "链接": "href=\"&&\"",
       "标题": "title=\"&&\"",
 	  "副标题": "<small>&&</small>",
-	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。撸一撸  注意身体",
+	  "简介": "★本站公告★：合理安排时间看片,享受健康生活。撸一撸  注意身体",
 	  "播放数组":"<div class=\"v_con_box\">&&</div>",
 	  "播放列表": "<a&&a>",
 	  "播放标题": ">&&</",
@@ -389,7 +389,7 @@
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
       "标题": "title=\"&&\"",
-	  "简介":"小撸怡情，大撸伤身！！",
+	  "简介":"小撸怡情,大撸伤身！！",
 	  "副标题": "<span class=\"number\">&&</span>",
       "线路数组":">线路：&&<section class=\"sectionContent below_path_content\">",
 	  "线路标题": ">福利线路<",
@@ -413,7 +413,7 @@
 "name": "444咖啡",
 "type": 3,"api": "csp_XBPQ",
 "searchable": 1,
-"quickSearch": 1, 
+"quickSearch": 1,
 "filterable": 1,
 "ext":{
       "主页url": "https://www.444.coffee/page/1",
@@ -496,7 +496,7 @@
 {
 "key": "javrom.com",
 "name": "Javrom",
-"type": 3，
+"type": 3,
 "changeable": 1,
 "searchable": 1,
 "quickSearch": 1,
@@ -557,13 +557,13 @@
 "quickSearch": 1,
 "filterable": 1,
 "ext":{
-      "数组":"<posts class=\"posts-item&&</posts>", 
+      "数组":"<posts class=\"posts-item&&</posts>",
       "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
 	  "副标题":"class=\"ml6\">&&</span>",
       "链接":"href=\"&&\"",
       "搜索url":"https://shayuav.xyz/vod/search/page/{pg}/wd/{wd}",
-	  "搜索模式": "1", 
+	  "搜索模式": "1",
       "搜索数组": "<posts class=\"posts-item&&</posts>",
       "搜索图片": "data-src=\"&&\"",
       "搜索标题": "alt=\"&&\"",
@@ -593,7 +593,7 @@
       "副标题": "score\">&&</span>",
       "链接":"href=\"&&\"",
       "直接播放":"1",
-	  "搜索模式": "1", 
+	  "搜索模式": "1",
 	  "搜索url": "https://www.dfjj91.com/vod/search/page/{pg}/wd/{wd}.html",
 	  "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
       "分类url": "https://www.dfjj91.com/maotype/{cateId}-{catePg}/",
@@ -626,7 +626,7 @@
 "key": "javday.app",
 "name": "Javday",
 "type": 3,
-"api": "csp_XBPQ"，
+"api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -635,7 +635,7 @@
       "数组": "class=\"col-style d-4 m-2 lazy loaded\"&&</a>",
       "标题": "<span class=\"title\">&&</span>",
       "图片":"style=\"background-image: url(&&);\"",
-	  "搜索模式": "1", 
+	  "搜索模式": "1",
       "直接播放": "1",
       "嗅探词": "index.m3u8",
 	  "搜索url": "https://javday.app/search/page/{pg}/wd/{wd}/",
@@ -654,7 +654,7 @@
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1，
+"filterable": 1.
 "ext":{
       "主页url": "https://www.jav777.cc",
       "数组": "\"post-container\"&&\"post-container\"",
@@ -663,20 +663,20 @@
       "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
       "链接": "href=\"&&\"",
 	  "搜索url": "https://www.jav777.xyz/?s={wd}",
-	  "搜索模式": "1"， 
+	  "搜索模式": "1",
       "直接播放":"1",
       "分类url": "https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
       "分类": "字幕あり$字幕あり"
       }
-}，
+},
   
 { 
 "key": "qinav.com",
-"name": "QINAV"，
-"type": 3，
+"name": "QINAV",
+"type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
-"quickSearch": 1，
+"quickSearch": 1,
 "filterable": 1,
 "ext":{
       "数组": "<ul><a title=&&</ul>",
@@ -700,19 +700,19 @@
 "api": "csp_XBPQ",
 "filterable": 1,
 "ext":{ 
-      "主页url": "https://huaduys.com/", 
+      "主页url": "https://huaduys.com/",
 	  "数组":"stui-vodlist__box\">&&</div></div>",
 	  "图片": "data-original=\"&&\"",
       "标题":"title=\"&&\"",
-	  "简介": "description\" content=\"&&剧情",  
+	  "简介": "description\" content=\"&&剧情",
 	  "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
       "直接播放":"1",
-	  "分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10", 
-	  "搜索模式": "1", 
+	  "分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10",
+	  "搜索模式": "1",
 	  "搜索url": "https://huaduys.com/vodsearch/-------------.html?wd={wd}",
 	  "分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
 	  }
-}，
+},
 
 {
 "key":"樱桃视频",
@@ -770,7 +770,7 @@
 "filterable":1,
 "ext":{ 
       "主页url": "https://javbus.sbs/",
-      "数组": "class=\"myui-vodlist__box&&</div>", 
+      "数组": "class=\"myui-vodlist__box&&</div>",
       "图片":"data-original=\"&&\"",
       "标题": "title=\"&&\"",
       "简介": "description\"*content=\"&&",
@@ -789,7 +789,7 @@
       "播放列表":"<a&&/a>",
       "播放标题":">&&<",
       "播放链接":"href=\"&&\"",
-      "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区(🈳)$4#中字5️⃣区$5#传媒印画$6#日本$7"，
+      "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区(🈳)$4#中字5️⃣区$5#传媒印画$6#日本$7",
       "分类url": "https://javbus.sbs/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
       }
 },
@@ -803,7 +803,7 @@
 "filterable":1,
 "ext":{
       "主页url":"https://javtree.com/last.html",
-      "二次截取": "<div class=\"j-list\">&&<div class=\"j-page\""，
+      "二次截取": "<div class=\"j-list\">&&<div class=\"j-page\"",
       "数组":"<a class=\"link&&</a>",
       "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
@@ -897,12 +897,12 @@
 },				
 			
 { 
-"key": "多米尼奥", 
+"key": "多米尼奥",
 "name": "多米尼奥",
-"type": 3, 
+"type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
-"quickSearch": 1, 
+"quickSearch": 1,
 "filterable": 1,
 "ext":{
        "数组": "<div class=\"v-pic\">&&</li>",
@@ -958,12 +958,12 @@
 "key": "19麻豆",
 "name": "台湾传媒",
 "type": 3,
-"api": "csp_XBPQ"，
+"api": "csp_XBPQ",
 "ext":{
       "站名": "麻豆视频",
       "主页url": "https://19q.cc/",
-      "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 
-      "分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界",
+      "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界"，
       "分类值": "1&2&3&4&5&6&7&8&9&10&20&21&22&23&24&25&29&26&27&28&30",
       "直接播放": "1",
       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos"，
