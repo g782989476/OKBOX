@@ -48,7 +48,7 @@
     	
 {
 "key": "快播HD",
-"name": "快播影视"，
+"name": "快播影视",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -59,11 +59,11 @@
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
       "标题": "title=\"&&\"",
-	  "副标题": " <span class=\"badge-innovation\">&&</span>"，
+	  "副标题": " <span class=\"badge-innovation\">&&</span>",
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
 	  "线路标题": "<span>&&</span>",
-	  "播放数组":" <div class=\"play-line-list clearfix\">&&</div>"，
+	  "播放数组":" <div class=\"play-line-list clearfix\">&&</div>",
 	  "播放列表": "<a&&</a>",
 	  "播放标题": "<span>&&</span>",
 	  "播放链接": "href=\"&&\"",
@@ -113,7 +113,7 @@
       "标题":"<h6 class=\"title\">&&</a>",
       "链接":"href=\"&&\"",
       "副标题": "\"ml-3 mr-1\"*>&&</p>",
-      "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
+      "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]"，
       "线路标题":">&&</a>",
       "搜索url":"https://mlqwnwx.com/vodsearch/{wd}----------{pg}---.html",
       "搜索模式":"1",
@@ -135,7 +135,7 @@
 },
 	
 {
-"key":"csp_xBP色花堂C",
+"key":"csp_xBP色花堂C"，
 "name":"51视频",
 "type":3,
 "api":"csp_XBPQ",
@@ -320,7 +320,7 @@
 "name": "菠萝视频",
 "type": 3,
 "api": "csp_XBPQ",
-"searchable": 1，
+"searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "ext":{
@@ -387,19 +387,19 @@
 "ext":{ 
       "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
       "图片":"src=\"&&\"",
-      "链接": "href=\"&&\""，
+      "链接": "href=\"&&\"",
       "标题": "title=\"&&\"",
 	  "简介":"小撸怡情，大撸伤身！！",
 	  "副标题": "<span class=\"number\">&&</span>",
       "线路数组":">线路：&&<section class=\"sectionContent below_path_content\">",
-	  "线路标题": ">福利线路<"，
+	  "线路标题": ">福利线路<",
 	  "播放数组":">线路：&&<section class=\"sectionContent below_path_content\">",
 	  "播放列表": "<a&&a>",
-	  "播放标题": ">&&</"，
+	  "播放标题": ">&&</",
 	  "播放链接": "href=\"&&\"",
 	  "搜索模式":"1",
       "搜索url":"https://www.17av.app/vodsearch/{wd}/page/{pg}.html",
-	  "搜索链接前缀":"https://www.17av.app/vodplay/"，
+	  "搜索链接前缀":"https://www.17av.app/vodplay/",
       "搜索链接后缀":"-1-1.html",
       "分类url": "https://www.17av.app/vodtype/{cateId}-{catePg}.html",
 	  "分类数组": "<a&&a>",
@@ -409,33 +409,33 @@
 },
 
 {
-"key": "444.coffee"，
+"key": "444.coffee",
 "name": "444咖啡",
 "type": 3,"api": "csp_XBPQ",
-"searchable": 1，
+"searchable": 1,
 "quickSearch": 1, 
 "filterable": 1,
 "ext":{
       "主页url": "https://www.444.coffee/page/1",
-      "数组": "<li id=\"post-*\" class=\"thumi\">&&</li>"，
+      "数组": "<li id=\"post-*\" class=\"thumi\">&&</li>",
       "图片":"data-src=\"&&\"",
       "标题":"title=\"&&\"",
 	  "副标题":"class=\"added\">&&</span>",
-      "链接":"href=\"&&\""，
-	  "简介": "<div class=\"embed-responsive embed-responsive-16by9\">&&</div>"，
+      "链接":"href=\"&&\"",
+	  "简介": "<div class=\"embed-responsive embed-responsive-16by9\">&&</div>",
       "搜索url":"https://www.444.coffee/?post_type=post&s={wd}",
 	  "直接播放":"1",
       "分类":"中文字幕$中文字幕",
-      "排序": "最新$newest#评分$rate"，
+      "排序": "最新$newest#评分$rate",
       "分类url": "https://www.444.coffee/category/{cateId}/page/{catePg}?order={by}"
       }
- }，
+ },
 
 {
-"key":"javhuge.com"，
+"key":"javhuge.com",
 "name":"Javhuge",
 "type":3,
-"api":"csp_XBPQ"，
+"api":"csp_XBPQ",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
@@ -496,7 +496,7 @@
 {
 "key": "javrom.com",
 "name": "Javrom",
-"type": 3,
+"type": 3，
 "changeable": 1,
 "searchable": 1,
 "quickSearch": 1,
@@ -576,7 +576,7 @@
       "剧情": "精品推荐$精品推荐#国产情色$国产情色#网红主播$网红主播#国模私拍$国模私拍#中文字幕$中文字幕#日本无码$日本无码#日本YOU码$日本有码#长腿丝袜$长腿丝袜#邻家人妻$邻家人妻#韩国伦理$韩国伦理#精品推荐$精品推荐",
       "分类url": "https://shayuav.xyz/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
       }
-}，
+},
   
 { 
 "key": "AAA影院",
@@ -626,7 +626,7 @@
 "key": "javday.app",
 "name": "Javday",
 "type": 3,
-"api": "csp_XBPQ",
+"api": "csp_XBPQ"，
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
@@ -654,7 +654,7 @@
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1,
+"filterable": 1，
 "ext":{
       "主页url": "https://www.jav777.cc",
       "数组": "\"post-container\"&&\"post-container\"",
@@ -663,20 +663,20 @@
       "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
       "链接": "href=\"&&\"",
 	  "搜索url": "https://www.jav777.xyz/?s={wd}",
-	  "搜索模式": "1", 
+	  "搜索模式": "1"， 
       "直接播放":"1",
       "分类url": "https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
       "分类": "字幕あり$字幕あり"
       }
-},
+}，
   
 { 
 "key": "qinav.com",
-"name": "QINAV",
-"type": 3,
+"name": "QINAV"，
+"type": 3，
 "api": "csp_XBPQ",
 "searchable": 1,
-"quickSearch": 1,
+"quickSearch": 1，
 "filterable": 1,
 "ext":{
       "数组": "<ul><a title=&&</ul>",
@@ -712,7 +712,7 @@
 	  "搜索url": "https://huaduys.com/vodsearch/-------------.html?wd={wd}",
 	  "分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
 	  }
-},
+}，
 
 {
 "key":"樱桃视频",
@@ -739,7 +739,7 @@
       "分类ID": "/vodtype/&&.html",
       "分类url": "https://www.6av.co/vodtype/{cateId}-{catePg}.html"
       }
-}，
+},
 {
 "key":"avgle.pro",
 "name":"Avgle",
@@ -789,7 +789,7 @@
       "播放列表":"<a&&/a>",
       "播放标题":">&&<",
       "播放链接":"href=\"&&\"",
-      "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区(🈳)$4#中字5️⃣区$5#传媒印画$6#日本$7",
+      "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区(🈳)$4#中字5️⃣区$5#传媒印画$6#日本$7"，
       "分类url": "https://javbus.sbs/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
       }
 },
@@ -803,7 +803,7 @@
 "filterable":1,
 "ext":{
       "主页url":"https://javtree.com/last.html",
-      "二次截取": "<div class=\"j-list\">&&<div class=\"j-page\"",
+      "二次截取": "<div class=\"j-list\">&&<div class=\"j-page\""，
       "数组":"<a class=\"link&&</a>",
       "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
@@ -848,7 +848,7 @@
 },
 			 
 { 
-"key": "yubanghanzhu"， 
+"key": "yubanghanzhu",
 "name": "玉蚌含珠",
 "type": 3,
 "api": "csp_XBPQ",
@@ -863,7 +863,7 @@
       "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
       "直接播放":"1" 
       }
-}，		 
+},	 
 			 			
 {
 "key":"东京淫朕",
@@ -905,13 +905,13 @@
 "quickSearch": 1, 
 "filterable": 1,
 "ext":{
-      "数组": "<div class=\"v-pic\">&&</li>"，
+       "数组": "<div class=\"v-pic\">&&</li>",
        "图片": "data-src=\"&&\"",
        "标题": "title=\"&&\"",
        "简介": "description\" content=\"&&\"",
 	   "直接播放": "1",
 	   "链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
-       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos"，
+       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 	   "跳转播放链接":"var player_*\"url\":\"&&\"",
        "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
 	   "搜索数组": "<div class=\"item clearfix\">&&<div class=\"v-page clearfix\">",
