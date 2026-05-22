@@ -45,7 +45,7 @@
 	  "分类": "制服诱惑$8#女优在线$13#强奸乱伦$7#中文字幕$2#亚洲有码$4#日本无码$5#AV解说$16",
 	  "分类url":"https://ceotv944.click/index.php/vod/type/id/{cateId}/page/{catePg}.html"
 	  }
-}，
+},
     	
 {
 "key": "快播HD",
@@ -59,7 +59,7 @@
       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
       "图片":"src=\"&&\"",
       "链接": "href=\"&&\"",
-      "标题": "title=\"&&\""，
+      "标题": "title=\"&&\"",
 	  "副标题": " <span class=\"badge-innovation\">&&</span>",
 	  "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
@@ -112,7 +112,7 @@
       //"数组":"<div class=\"img-box cover-md\">&&</h6>"，
       "数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
       "图片":"data-original=\"&&\"",
-      "标题":"<h6 class=\"title\">&&</a>"，
+      "标题":"<h6 class=\"title\">&&</a>",
       "链接":"href=\"&&\"",
       "副标题": "\"ml-3 mr-1\"*>&&</p>",
       "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
@@ -134,7 +134,7 @@
       "分类值":"1&2&15&4&8&11&18&19&21&22&23&24&25&26&27&28&29",
       "分类url":"https://mlqwnwx.com/typegaokk/{cateId}_{catePg}.html[https://mlqwnwx.com/typegaokk/{cateId}.html]"
       }
-},
+}，
 	
 {
 "key":"csp_xBP色花堂C",
@@ -184,7 +184,7 @@
 "filterable":1,
 "ext":{ 
       "站名":"色花堂",
-      "主页url":"https://3taoav.com/",
+      "主页url":"https://3taoav.com/"，
        //"数组":"<div class=\"img-box cover-md\">&&</h6>",
       "数组":"\"img-box cover-md\"&&\"img-box cover-md\"",
       "图片": "data-original=\"&&\"",
@@ -425,17 +425,17 @@
       "主页url": "https://www.444.coffee/page/1",
       "数组": "<li id=\"post-*\" class=\"thumi\">&&</li>",
       "图片":"data-src=\"&&\"",
-      "标题":"title=\"&&\"",
+      "标题":"title=\"&&\""，
 	  "副标题":"class=\"added\">&&</span>",
       "链接":"href=\"&&\"",
-	  "简介": "<div class=\"embed-responsive embed-responsive-16by9\">&&</div>",
+	  "简介": "<div class=\"embed-responsive embed-responsive-16by9\">&&</div>"，
       "搜索url":"https://www.444.coffee/?post_type=post&s={wd}",
 	  "直接播放":"1",
-      "分类":"中文字幕$中文字幕",
+      "分类":"中文字幕$中文字幕"，
       "排序": "最新$newest#评分$rate",
       "分类url": "https://www.444.coffee/category/{cateId}/page/{catePg}?order={by}"
       }
- },
+ }，
 
 {
 "key":"javhuge.com",
@@ -471,7 +471,7 @@
 {
 "key":"tmav.art",
 "name":"天美影视",
-"type":3,
+"type":3，
 "api":"csp_XBPQ",
 "searchable":1,
 "quickSearch":1,
@@ -500,7 +500,7 @@
 },
  
 {
-"key": "javrom.com"，
+"key": "javrom.com",
 "name": "Javrom",
 "type": 3,
 "changeable": 1,
@@ -614,7 +614,7 @@
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1，
+"filterable": 1,
 "ext":{ 
       "数组二次截取": "class=\"flexw\">&&<ul class=\"pageNav-main flexjw\">",
       "数组": "<a&&</a>",
@@ -635,7 +635,7 @@
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 1，
+"filterable": 1,
 "ext":{
       "主页url": "https://javday.app/label/new/",
       "数组": "class=\"col-style d-4 m-2 lazy loaded\"&&</a>",
