@@ -1,5 +1,5 @@
 { 
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+  "spider": "https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
   "sites": [
     {
       "key": "星赐影视",
@@ -17,8 +17,10 @@
         "标题": "alt=\"&&\"",
         "直接播放": "1",
         "跳转播放链接": "var uul='&&'",
-        "搜索模式": "1",
-        "搜索url": "https://aszyz.xyz/vod/search.html?wd=**",
+        "搜索url": "https://aszyz.xyz/vod/search/wd/**/",
+        "搜索数组": "<div class=\"item\">&&</a>",
+        "搜索链接": "https://aszyz.xyz",
+        "搜索页": "page/**/wd/",
         "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
         "分类": "视频一区$1#视频二区$2#视频三区$3"
       }
