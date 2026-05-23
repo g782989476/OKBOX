@@ -16,7 +16,7 @@
         "标题": "alt=\"&&\"",
         "直接播放": "1",
         "跳转播放链接": "var uul='&&'",
-        "搜索url":"https://aszyz.xyz/vod/search.html?wd=**"
+        "搜索url":"https://aszyz.xyz/vod/search.html?wd=**",
         "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
         "分类": "视频一区$1#视频二区$2#视频三区$3"
       }
