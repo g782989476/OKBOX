@@ -1,8 +1,4 @@
-{
- "spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
-  
-  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
-  
+{ 
   "sites": [
     {
       "key": "星赐影视",
@@ -20,7 +16,8 @@
         "标题": "alt=\"&&\"",
         "直接播放": "1",
         "跳转播放链接": "var uul='&&'",
-        "搜索url":"https://aszyz.xyz/vod/search.html?wd=**",
+        "搜索模式": "1",
+        "搜索url": "https://aszyz.xyz/vod/search.html?wd=**",
         "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
         "分类": "视频一区$1#视频二区$2#视频三区$3"
       }
