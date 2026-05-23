@@ -21,7 +21,7 @@
         "标题": "alt=\"&&\"",
         "副标题": "✨色即是空，空即是色✨",
         "直接播放": "1",
-        "跳转播放链接": "var uul='&&'",
+        "跳转播放链接": "var uul=\'&&\'",
         "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
         "分类": "视频一区$1#视频二区$2#视频三区$3"
       }
@@ -59,7 +59,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1,
       "ext": {
         "主页url": "https://javhuge.com/",
@@ -165,11 +165,11 @@
         "标题": "atl=\"&&\"",
         "副标题": "img-tag\">&&</div>",
         "链接": "href=\"&&\"",
-        "简介": "document.title='&&'",
+        "简介": "document.title=\'&&\'",
         "直接播放": "1",
         "搜索模式": "1",
         "搜索url": "https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/",
-        "分类数组": " <li class='item '>&&</li>",
+        "分类数组": " <li class=\'item \'>&&</li>",
         "分类二次数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/gaotype/&&.html",
@@ -251,7 +251,7 @@
     "z6.cnzz.com",
     "um.cavuc.com",
     "mav.mavuz.com",
-    "wofwk.aoidf3.com",
+    "wofwk.aoidf3.com"，
     "z5.cnzz.com",
     "xc.hubeijieshikj.cn",
     "tj.tianwenhu.com",
