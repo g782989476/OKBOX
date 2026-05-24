@@ -1,0 +1,60 @@
+{
+  "sites": [
+    {
+      "key": "api_ikun资源_s/ikunzy.net",
+      "name": "ikun资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    },
+    
+    {
+      "key": "api_茅台资源_s/maotaizy.cce",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    },
+    
+    {
+      "key": "api_红牛资源_s/hongniuzy.com",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    },
+    
+    
+      "key": "api_光速资源_s/guangsuzy.com",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
+    }
+  ]
+   
+}
