@@ -4,7 +4,7 @@
       "key": "api_ikun资源_s/ikunzy.net",
       "name": "ikun资源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://ikunzyapi.com/api.php/provide/vod ",
       "searchable": 1,
       "quickSearch": 1,
       "style": {
