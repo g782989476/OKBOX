@@ -5,13 +5,18 @@
       "name": "光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "playurl":"https://www.gszyv.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片"
+      ],
       "style": {
         "type": "rect",
         "ratio": 1.78
       }
     }
-  ]
-   
+  ]   
 }
