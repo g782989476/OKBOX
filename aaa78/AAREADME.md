@@ -22,6 +22,9 @@
 
     18Db_TV-BOX-ChunFuLi.json
         01关注："TV-BOX/纯福利/纯福利.json"
+
+    18Db_aliluya-me.json
+        01关注："aliluya/me.json"
                     
     Adult AvDb
         01关注："失效不补"
