@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "api_光速资源",
       "name": "光速资源",
@@ -237,7 +237,7 @@
     {
       "key": "api_电影天堂",
       "name": "电影天堂",
-      "type": 1，
+      "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
@@ -334,7 +334,7 @@
     "qiyi",
     "letv",
     "sohu",
-    "tudou"，
+    "tudou",
     "pptv",
     "mgtv",
     "wasu"
