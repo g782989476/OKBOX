@@ -148,7 +148,7 @@
       "key": "api_如意资源",
       "name": "如意资源",
       "type": 1,
-      "api": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -157,7 +157,7 @@
       "key": "api_豪华资源",
       "name": "豪华资源",
       "type": 1,
-      "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -166,7 +166,7 @@
       "key": "api_百度云资源",
       "name": "百度云资源",
       "type": 1,
-      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -175,7 +175,7 @@
       "key": "api_艾旦资源",
       "name": "艾旦资源",
       "type": 1,
-      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://lovedan.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -213,7 +213,7 @@
       "type": 1,
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1
     },
     {
@@ -237,7 +237,7 @@
     {
       "key": "api_电影天堂",
       "name": "电影天堂",
-      "type": 1,
+      "type": 1，
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 0,
       "quickSearch": 0,
@@ -301,7 +301,7 @@
       "key": "api_樱花资源",
       "name": "樱花资源",
       "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
