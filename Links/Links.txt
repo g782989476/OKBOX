@@ -18,10 +18,10 @@ okbox
 
 
 xxxbox
-    https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/api/xxx/xxxbox.json
+    https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/xxxbox.json
     
 18Db_Jh
-    https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_Jh.json
+    https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_Jh.json
     
 18Zb_Jh
-    https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Zb_Jh.json
+    https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Zb_Jh.json
