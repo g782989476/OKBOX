@@ -11,7 +11,7 @@
 		{
 			"key": "XOJAV",
 			"name": "🔞XOJAV",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -24,7 +24,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/xojav.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/xojav.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
