@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_NSFW-Spiders-index.json",
+      "name": "1号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_TV-BOX-ChunFuLi.json",
+      "name": "2号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_aliluya-me.json",
+      "name": "3号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_dd-config22.json",
+      "name": "4号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_tvbox-funC.txt",
+      "name": "5号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/aaa78/18Db_tvbox-funJ.json",
+      "name": "6号线路"
+    }
+  ]
+}
