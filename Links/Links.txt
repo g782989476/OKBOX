@@ -1,17 +1,19 @@
+#ok
+
 okbox
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/api/ok/okbox.json
+    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/okbox.json
 
 裤佬聚合直播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/KlJhZb.json
+    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhZb.json
     
 裤佬聚合点播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/KlJhDb
+    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb
     
 改自裤佬直播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/GzKlZb.m3u
+    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlZb.m3u
     
 改自裤佬点播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/GzKlDb.txt
+    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlDb.txt
 
 
 
