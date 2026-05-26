@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyq.jar",
+    "spider": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyq.jar",
     "logo": "https://d.kstore.dev/download/11759/base.jpg?from=2956013662",
     "wallpaper": "https://picsum.photos/1080/",
     "sites": [
@@ -8,11 +8,11 @@
             "name": "豆瓣首页",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/douban.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/douban.json"
         },
         {
             "key": "推特APP",
@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/py/推特APP.py",
+            "api": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/py/推特APP.py",
             "order_num": 5,
             "ext": ""
         },   
@@ -574,11 +574,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/精工厂.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/精工厂.json"
         },
         {
             "key": "文件夹",
@@ -586,11 +586,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/文件夹.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/文件夹.json"
         },
         {
             "key": "自排偷拍",
@@ -598,11 +598,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/自排偷拍.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/自排偷拍.json"
         },
         {
             "key": "高端外泄",
@@ -610,11 +610,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/高端外泄.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/高端外泄.json"
         },
         {
             "key": "麻豆视频",
@@ -622,11 +622,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/麻豆视频.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/麻豆视频.json"
         },
         {
             "key": "偷拍自拍",
@@ -634,11 +634,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/偷拍自拍.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/偷拍自拍.json"
         },
         {
             "key": "美人吹箫",
@@ -646,11 +646,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/美人吹箫.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/美人吹箫.json"
         },
         {
             "key": "55视频",
@@ -658,11 +658,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/55视频.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/55视频.json"
         },
         {
             "key": "18XXX",
@@ -670,11 +670,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/18XXX.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/18XXX.json"
         },
         {
             "key": "窜天猴",
@@ -682,11 +682,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/窜天猴.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/窜天猴.json"
         },
         {
             "key": "GDD视频",
@@ -694,11 +694,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/GDD视频.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/GDD视频.json"
         },
         {
             "key": "桃花浪",
@@ -706,11 +706,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/桃花浪.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/桃花浪.json"
         },
         {
             "key": "百灵鸟在线",
@@ -718,11 +718,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/百灵鸟在线.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/百灵鸟在线.json"
         },
         {
             "key": "樱樱女子",
@@ -730,11 +730,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/樱樱女子.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/樱樱女子.json"
         },
         {
             "key": "激动网",
@@ -742,11 +742,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/激动网.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/激动网.json"
         },
         {
             "key": "成鸡思汉",
@@ -754,18 +754,18 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/成鸡思汉.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/成鸡思汉.json"
         },
         {
             "key": "18AV",
             "name": "XYQHiker| 18AV",
             "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
             "type": 3,
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
             "api": "csp_Eighteen",
             "searchable": 0
         },
@@ -788,7 +788,7 @@
             "name": "XYQHiker| Jable",
             "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
             "type": 3,
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/pg.jar",
             "api": "csp_Jable",
             "searchable": 0,
             "recordable": 0
@@ -808,7 +808,7 @@
             "name": "XYQHiker| 小姨子",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -832,118 +832,118 @@
             "name": "XYQHiker| 18j",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/18j.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/18j.json"
         },
         {
             "key": "83视频",
             "name": "XYQHiker| 83视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/83视频.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/83视频.json"
         },
         {
             "key": "魔法少女",
             "name": "XYQHiker| 魔法少女",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/魔法少女.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/魔法少女.json"
         },
         {
             "key": "淘精岁月",
             "name": "XYQHiker| 淘精岁月",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/淘精岁月.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/淘精岁月.json"
         },
         {
             "key": "超级精品",
             "name": "XYQHiker| 超级精品",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/超级精品.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/超级精品.json"
         },
         {
             "key": "咪咪女孩",
             "name": "XYQHiker| 咪咪女孩",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/咪咪女孩.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/咪咪女孩.json"
         },
         {
             "key": "Aress",
             "name": "XYQHiker| Aress",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/json/Aress.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/json/Aress.json"
         },
         {
             "key": "淫妻录",
             "name": "XYQHiker| 淫妻录",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/lib/淫妻录.json"
+            "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/lib/淫妻录.json"
         },
         {
             "key": "花都影视",
             "name": "XYQHiker| 花都影视",
             "type": 3,
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
@@ -958,7 +958,7 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -981,7 +981,7 @@
             "key": "野鸡🐔TV",
             "name": "XYQHiker| 野鸡TV",
             "type": 3,
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -1053,7 +1053,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "recordable": 0,
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
             "ext": {
                 "直接播放": "1",
                 "嗅探词": ".m3u8#.mp4",
@@ -1142,14 +1142,14 @@
                 "type": "rect",
                 "ratio": 1.6
             }
-        },
+        }，
         {
             "key": "kanav",
             "name": "XYQHiker| 看AV",
             "type": 3,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://raw.githubusercontent.com/g782989476/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/jar/XBPQ.jar",
             "ext": {
                 "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}.html",
                 "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#动漫番剧$20"
