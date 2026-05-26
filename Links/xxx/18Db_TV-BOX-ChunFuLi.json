@@ -115,11 +115,11 @@
       }
     },
     {
-      "key": "五马抖音"，
+      "key": "五马抖音",
       "name": "XYQHiker| 五马抖音",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1，
+      "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -166,11 +166,11 @@
         "搜索数组": "lazyload\"&&</a>",
         "搜索标题": "title=\"&&\"",
         "搜索图片": "data-original=\"&&\"",
-        "搜索副标题": "text-right\">&&<",
+        "搜索副标题": "text-right\">&&<"，
         "搜索链接": "href=\"&&\"",
         "剧情": ""
       }
-    },
+    }，
     {
       "key": "csp_XYQHiker_bad",
       "name": "XYQHiker| Bad.news",
@@ -347,7 +347,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/lib/jav.json"
-    }，
+    },
     {
       "key": "KISSAV",
       "name": "XYQHiker| KISSAV",
@@ -399,13 +399,13 @@
     {
       "key": "Xojav",
       "name": "XYQHiker| XOJav",
-      "type": 3,
+      "type": 3，
       "api": "csp_Xojav",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "timeout": 60,
+      "timeout": 60，
       "ext": "null$$$proxy",
       "style": {
         "type": "rect",
@@ -505,7 +505,7 @@
       "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/jar/Aoki.jar",
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/300分类.json"
-    }，
+    },
     {
       "key": "csp_XYQHiker_kanav",
       "name": "XYQHiker| KANAV",
