@@ -25,6 +25,9 @@
 
     18Db_aliluya-me.json
         01关注："https://github.com/xwyjc/aliluya/blob/main/me.json"
+        
+    xxxbox.json
+        01关注："https://github.com/FFLLZZ/moon-config/blob/main/report.md"
                     
     Adult AvDb
         01关注："失效不补"
