@@ -10,7 +10,7 @@
 		{
 			"key": "Jable",
 			"name": "Jable",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -23,7 +23,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/jable.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/jable.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -63,7 +63,7 @@
 		{
 			"key": "netflav",
 			"name": "NetflAV",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -76,7 +76,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/netflav.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/netflav.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -116,7 +116,7 @@
 		{
 			"key": "123av",
 			"name": "123AV",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -129,7 +129,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/123av.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/123av.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -171,7 +171,7 @@
 		{
 			"key": "MissAV",
 			"name": "MissAV",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -184,7 +184,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/missav.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/missav.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -227,7 +227,7 @@
 		{
 			"key": "supjav",
 			"name": "SupJav",
-			"jar": "./jar/gm.jar",
+			"jar": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/gm.jar",
 			"type": 3,
 			"quickSearch": 0,
 			"searchable": 1,
@@ -240,7 +240,7 @@
 			},
 			"api": "csp_GM",
 			"ext": {
-				"userScript": "./js/supjav.user.js",
+				"userScript": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/js/supjav.user.js",
 				"debug": false,
 				"webViewSettings": {
 					"blockNetworkImage": true,
@@ -400,6 +400,6 @@
 			]
 		}
 	],
-	"spider": "./jar/xbpq.jar",
-	"logo": "./img/pg.gif"
+	"spider": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jar/xbpq.jar",
+	"logo": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/img/pg.gif"
 }
