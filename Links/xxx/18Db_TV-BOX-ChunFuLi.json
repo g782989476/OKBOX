@@ -45,7 +45,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1，
+      "filterable": 1,
       "api": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/Xvideos.py",
       "order_num": 5,
       "ext": ""
@@ -60,7 +60,7 @@
       "api": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/黑料.py",
       "order_num": 5,
       "ext": ""
-    },
+    }，
     {
       "key": "九个区.py",
       "name": "PY| 九个区",
@@ -115,11 +115,11 @@
       }
     },
     {
-      "key": "五马抖音",
+      "key": "五马抖音"，
       "name": "XYQHiker| 五马抖音",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1,
       "changeable": 1,
       "api": "csp_XBPQ",
@@ -347,7 +347,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/lib/jav.json"
-    },
+    }，
     {
       "key": "KISSAV",
       "name": "XYQHiker| KISSAV",
@@ -505,7 +505,7 @@
       "jar": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/jar/Aoki.jar",
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/300分类.json"
-    },
+    }，
     {
       "key": "csp_XYQHiker_kanav",
       "name": "XYQHiker| KANAV",
@@ -802,7 +802,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "proxy"
-        }，
+        },
         {
             "key": "小姨子",
             "name": "XYQHiker| 小姨子",
