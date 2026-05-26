@@ -3,23 +3,28 @@
 #点播
 
     01
-    GzKldb
+    改自裤佬点播
     更新时间：2026/5/17
-    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/GzKlDb.txt"
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlDb.txt"
 
     02
-    KlJhDb
+    裤佬聚合点播
     更新时间：2026/5/17
-    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/KlJhDb"
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb"
+
+    03
+    影视采集站聚合
+    更新时间：2025/5/25
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/okbox.json"
     
 #直播
 
     01
-    GzKlZb
+    改自裤佬直播
     更新时间：2026/5/19
-    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/GzKlZb.m3u"
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlZb.m3u"
 
     02
-    KlJhZb
+    裤佬聚合直播
     更新时间：2026/5/17
-    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/tvbox/refs/heads/main/bbb78/KlJhZb.json"
+    加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhZb.json"
