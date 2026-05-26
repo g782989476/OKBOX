@@ -46,7 +46,7 @@
           },
           "detailContent": {
             "loadUrl": "https://jable.tv/videos/${id}/"
-          }，
+          },
           "searchContent": {
             "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
           }
@@ -58,12 +58,12 @@
       "name": "123AV",
       "type": 3,
       "quickSearch": 1,
-      "searchable": 1，
-      "changeable": 0，
+      "searchable": 1,
+      "changeable": 0,
       "filterable": 1,
       "timeout": 60,
       "style": {
-        "type": "rect"，
+        "type": "rect",
         "ratio": 1.49
       },
       "api": "csp_GM",
@@ -76,7 +76,7 @@
             "*.ico",
             "*.png",
             "*.jpg",
-            "*.vtt"，
+            "*.vtt",
             "*.css*",
             "https://*.googleapis.com/*",
             "https://*.googletagmanager.com/*",
@@ -84,7 +84,7 @@
             "https://*.google-analytics.com/*",
             "https://njav.tv/recomm/items/*"
           ]
-        }，
+        },
         "playUrlMatch": [
           "https://*/v.m3u8"
         ],
@@ -115,7 +115,7 @@
       "searchable": 1,
       "changeable": 0,
       "filterable": 1,
-      "timeout": 60，
+      "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.48
@@ -133,8 +133,8 @@
             "https://*.fanza.cc/*",
             "https://*.google-analytics.com/*",
             "https://*.googletagmanager.com/*",
-            "https://*.mnaspm.com/*"，
-            "https://*.recombee.com/*"，
+            "https://*.mnaspm.com/*",
+            "https://*.recombee.com/*",
             "https://*.saawsedge.com/*",
             "https://*.sacdnssedge.com/*",
             "https://*.tapioni.com/*",
@@ -211,7 +211,7 @@
         "spider": {
           "homeContent": {
             "loadUrl": "https://xojav.tv/?lang=zh"
-          }，
+          },
           "categoryContent": {
             "loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
           },
@@ -236,7 +236,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.48
-      }，
+      },
       "api": "csp_GM",
       "ext": {
         "userScript": "https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/userScripts/netflav.user.js",
