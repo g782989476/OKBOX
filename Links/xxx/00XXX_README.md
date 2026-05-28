@@ -25,6 +25,12 @@
 
     18Db_aliluya-me.json
         01关注："https://github.com/xwyjc/aliluya/blob/main/me.json"
+
+    18Db_xpg-av.json
+        01关注："https://github.com/cxelva/xpg/blob/main/av.json"
+        
+    1818Db_jaychouqq-tvbox-file.json
+        01关注："https://github.com/wliqi495-create/jaychouqq/blob/main/tvbox/file.json"
         
     xxxbox.json
         01关注："https://github.com/FFLLZZ/moon-config/blob/main/report.md"
