@@ -1,0 +1,466 @@
+{
+  "spider": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
+  
+  "sites": [
+    {
+      "key": "豆瓣[官]_2.js",
+      "name": "豆瓣推荐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js2/豆瓣[官]_2.js"
+    },
+    
+    {
+      "key": "MissAV",
+      "name": "JAR| MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      },
+      "ext": "noproxy",
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/20260517104047spider.jar"
+    },
+  {
+      "key": "魔都资源[资].js",
+      "name": "JAR| 魔都资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/魔都资源[资].js"
+    },
+    {
+      "key": "百灵鸟22",
+      "name": "JAR| 百灵鸟视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/json/百灵鸟在线.json",
+      "jar": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/xbpq.jar"
+    },
+    
+    {
+      "key": "Xvideos.py",
+      "name": "PY| Xvideos",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/Xvideos.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "Pornhub.py",
+      "name": "PY| Pornhub",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/Pornhub.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "tube8.py",
+      "name": "PY| Tube8",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py2/tube8.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "韩国色情电影.py",
+      "name": "PY| 韩国伦理",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/韩国色情电影.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "黄瓜视频.py",
+      "name": "PY| 黄瓜视频",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/黄瓜视频.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "avjoy.py",
+      "name": "PY| Avjoy",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py2/avjoy.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "一个区.py",
+      "name": "PY| 一个区",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py2/一个区.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "九个区.py",
+      "name": "PY| 九个区",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py2/九个区.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+     {
+      "key": "vf.py",
+      "name": "PY| Avf333",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/vf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },   
+    {
+      "key": "葡萄5区",
+      "name": "PY| 葡萄5区",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py2/葡萄5区.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "路一天.py",
+      "name": "PY| 撸一天",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/1撸一天.py"
+    },
+    {
+      "key": "18.py",
+      "name": "PY| 十八资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py3/18.py"
+    },
+    {
+      "key": "Beeg",
+      "name": "PY| Beeg资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/Beeg.py"
+    },
+    {
+      "key": "推特PY",
+      "name": "PY| 推特资源",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/推特.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "bhohoj.py",
+      "name": "PY| Hohoj资源",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/hohoj.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "4k日本动漫.py",
+      "name": "PY| Hanti动漫",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/4k日本动漫.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "小红薯.py",
+      "name": "PY| 小红薯",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/小红薯.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "小精灵py",
+      "name": "PY| 小精灵",
+      "api": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/小精灵3.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    
+    {
+      "key": "php_麻豆",
+      "name": "API| 麻豆视频",
+      "type": 4,
+      "api": "https://php.doube.eu.org/spider/php/麻豆.php",
+      "changeable": 1
+    },
+    {
+      "key": "悠悠影视",
+      "name": "API| 悠悠影视",
+      "type": 1,
+      "api": "https://yytv.cc/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "黑色影视",
+      "name": "API| 黑色影视",
+      "type": 1,
+      "api": "https://heiliaozyapi.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "鲨鱼资源",
+      "name": "API| 鲨鱼资源",
+      "type": 1,
+      "api": "https://shayuzy1.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "1仓库",
+      "name": "API| 1号仓库",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "看资源",
+      "name": "API| 看看资源",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "美少女资源",
+      "name": "API| 美少女资源",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "白嫖资源",
+      "name": "API| 白嫖资源",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "私人资源",
+      "name": "API| 私人资源",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "香奶儿资源",
+      "name": "API| 香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "小师妹",
+      "name": "API| 小师妹",
+      "type": 1,
+      "api": "https://www.afasu.com/api/json.php",
+      "changeable": 1
+    },
+    {
+      "key": "91888",
+      "name": "API| 91麻豆",
+      "type": 1,
+      "api": "https://19q.cc/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xfzyCMS",
+      "name": "API| 幸福资源",
+      "type": 1,
+      "api": "https://json.xingba222.com/api.php/provide/vod/",
+      "changeable": 1
+    },
+    {
+      "key": "大地资源",
+      "name": "API| 大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 0,
+      "quickSearch": 0
+    }
+  ],
+
+  "parses": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ]
+}
