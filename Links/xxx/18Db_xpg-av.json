@@ -1,0 +1,194 @@
+{
+  "spider": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/spider.jar",
+
+  "sites": [
+            {
+            "key": "推特",
+            "name": "推特资源",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/推特APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+            {
+            "key": "三上悠亚🔥",
+            "name": "三上悠亚",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/三上悠亚.json"
+        },
+            {
+            "key": "✨高清SEX国产",
+            "name": "高清SEX",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/高清SEX国产.js"
+        },
+            {
+            "key": "菜佬湿倾情奉献",
+            "name": "特供资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "ratio": 1.7
+            },
+            "ext": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/菜鸟资源.json"
+        },
+            {
+            "key": "乱姐黑料",
+            "name": "乱姐黑料",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "分类url": "https://seyo26.xyz/yy/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类": "强奸乱伦$253#明星换脸$254#调教视频$258#女同性恋$259#电影解说$247#欧美视频$248#网曝事件$249#中文字幕$240#无码视频$241#明星淫梦$244#日韩专区$245#伦理三级$239#性感主播$238#国产视频$234#动漫视频$246#国产传媒$236#萝莉少女$263#口交颜射$246#乱伦中文$265#探花约炮$266#极品学妹$267#强奸中文$269#制服诱惑$270#调教中文$271"
+            }
+        },
+            {
+            "key": "野鸡资源",
+            "name": "野鸡资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://wap.yejiav2.cc/yj/",
+                "数组": "vod-img&&/div></div>",
+                "标题": "+vod-txt*\">&&</a",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<p&&/p>",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://wap.yejiav2.cc/yj/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "线路标题": "&&",
+                "播放数组": "<div class=\"group-box\"&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&</",
+                "播放链接": "href=\"&&\"",
+                "分类": "奥斯卡资源$119#野鸡资源$267#冷库资源$206#玉兔资源$302#155资源$244#国产精品$269#国产乱伦$322#日本无码$124#日本有码$123"
+            }
+        },
+    {
+      "key": "lebozy.com",
+      "name": "乐播直连",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "无码专区",
+        "欧美性爱",
+        "中文字幕",
+        "亚洲情色",
+        "国产主播",
+        "国产自拍",
+        "熟女人妻",
+        "强奸乱伦",
+        "巨乳美乳",
+        "制服诱惑",
+        "女同性恋",
+        "卡通动画",
+        "视频伦理",
+        "少女萝莉",
+        "重口色情",
+        "人兽性交"
+      ]
+    },
+            {
+            "key": "Missav🔥🔞",
+            "name": "Missav",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/js/Missav.js"
+        },
+            {
+            "key": "爆料记者",
+            "name": "爆料记者",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m7n8o9p0.bljz19.cc/gbook/",
+                "数组": "1click&&</div></div>",
+                "标题": "vod-txt\">*>&&<",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类url": "https://m7n8o9p0.bljz19.cc/vodtype/{cateId}/page/{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
+    {
+        "key":"vnzyz.com",
+        "name":"越南直连",
+        "type":1,
+        "api":"https://vnzyz.com/api.php/provide/vod/?ac=list",
+        "searchable":1,
+        "filterable":1
+        },
+        {
+            "key": "要看伦理",
+            "name": "要看伦理",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "播放数组": "tab-content&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&<[不包含:夸克网盘]",
+                "播放链接": "href=\"&&\"",
+                "分类": "欧美视频$oumeilunli#香港伦理$xiangganglunli#韩国伦理$hanguolunli#日本伦理$ribenlunli#",
+                "分类url": "https://www.yklunli.top/{cateId}/p{catePg}.html"
+            }
+        },
+    {
+      "key":"jingpinx.com","name":"精品翻墙","type":1,"api":"https://www.jingpinx.com//api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+   {
+      "key": "656b916e-94fe-5b57-b300-80ccc1be1cea",
+      "name": "辣椒翻墙",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "b0684274-ce9e-5d4f-bf54-f61afbdaf49d",
+      "name": "玉兔翻墙",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "70f4c18c-3276-50f1-adaa-85614f5441eb",
+      "name": "森林翻墙",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
