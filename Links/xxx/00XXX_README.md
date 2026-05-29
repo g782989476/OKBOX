@@ -62,6 +62,9 @@
 
       XXE
           01关注："https://github.com/FGBLH/GHK/blob/main/海豚影视.json"
+
+      XXT
+          01关注："失效不补"
           
       Adult Om
           01关注："失效不补"
