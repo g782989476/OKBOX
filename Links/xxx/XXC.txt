@@ -9,6 +9,7 @@ XXC1,#genre#
 香蕉台(免翻),http://125.227.210.55:1009/VideoInput/play.ts
 松视,http://125.227.210.55:1022/VideoInput/play.ts
 奧視2,http://125.227.210.55:3031/VideoInput/play.ts
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 HustlerHD,http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
 香蕉台,http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
 彩虹电影,http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
