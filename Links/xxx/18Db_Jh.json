@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/xxxbox.json",
+      "name": "0号线路"
+    },
+    {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_NSFW-Spiders-index.json",
       "name": "1号线路"
     },
