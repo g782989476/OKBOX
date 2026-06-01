@@ -16,9 +16,7 @@ okbox
     https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlDb.txt
 
 
-
-xxxbox
-    https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/xxxbox.json
+#xxx
     
 18Db_Jh
     https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_Jh.json
