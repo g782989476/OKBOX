@@ -66,6 +66,9 @@
       XXT
           01关注："失效不补"
           
+      XXD
+          01关注："https://github.com/wliqi495-create/jaychouqq/blob/main/洋片XD.m3u"
+          
       Adult Om
           01关注："失效不补"
           
