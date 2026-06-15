@@ -62,7 +62,8 @@
           01关注："https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html"
 
       XXE
-          01关注："http://xtvantsc.xyz/欧美2160.m3u"
+          01关注："http://xtvantsc.xyz/欧美2160.m3u",
+          02关注："https://ilook.epg.one/EDTZN7ANS84N86"
 
       XXT
           01关注："失效不补"
