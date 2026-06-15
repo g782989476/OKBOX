@@ -62,7 +62,7 @@
           01关注："https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html"
 
       XXE
-          01关注："https://github.com/FGBLH/GHK/blob/main/海豚影视.json"
+          01关注："http://xtvantsc.xyz/欧美2160.m3u"
 
       XXT
           01关注："失效不补"
