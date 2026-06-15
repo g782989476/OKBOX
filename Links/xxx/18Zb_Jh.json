@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
+      "name": "Test 0号线路"
+    },
+    {
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u",
       "name": "Test 1号线路"
     },
