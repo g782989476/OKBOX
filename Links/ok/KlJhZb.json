@@ -1,28 +1,40 @@
 {
   "lives": [
     {
-      "name": "裤佬TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-      "type":0
+      "name": "裤佬TV直播"，
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
     },
     {
-      "name": "潇雨TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "url": "https://ds65.tv1288.xyz",
-      "type":0
+      "name": "日后TV直播",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "风云TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "url": "http://iptv.4666888.xyz/FYTV.txt",
-      "type":0
+      "name": "涛涛TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
+    },
+    {
+      "name": "易发TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
+      "name": "咪咕TV直播",
+      "type": 0,
+      "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt"
     },
     {
       "name": "宫殿TV直播",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+      "type": 0,
       "url": "https://gongdian.top/tv/iptv",
-      "type":0
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
     }
   ]
 }
