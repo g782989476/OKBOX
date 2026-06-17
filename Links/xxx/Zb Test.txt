@@ -15,8 +15,8 @@ Adult
     网址05：https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u
            01关注：https://github.com/bizopps/tv/blob/main/a.m3u
            
-    网址06：
-           01关注：
+    网址06：https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8
+           01关注：https://github.com/a2256569/tv/refs/heads/main/playlist.m3u8
            
     网址07：
            01关注：
