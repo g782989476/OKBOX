@@ -1,6 +1,8 @@
 {
   "urls": 
         [
+          {"name": "DianShi", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json"},
+          
           {"name": "裤佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"},
           {"name": "饭太硬", "url": "http://www.饭太硬.net/tv"},
           {"name": "王小二", "url": "http://tvbox.王二小放牛娃.top"},
