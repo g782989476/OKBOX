@@ -24,6 +24,10 @@
       "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8",
       "name": "Test 5号线路"
     },
+    {
+      "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u",
+      "name": "Test 6号线路"
+    },
     
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
