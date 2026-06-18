@@ -22,3 +22,4 @@
     加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhZb.json"
     更新来源：01 "https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg2"
              02 "https://github.com/cluntop/tvbox/blob/main/lib/iptv.m3u"
+             03 "https://github.com/slasjh/tvlive/blob/main/live.m3u"
