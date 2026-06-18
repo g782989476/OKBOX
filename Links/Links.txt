@@ -1,12 +1,9 @@
 #ok
 
-okbox
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/okbox.json
-
-裤佬聚合直播
+聚合直播
     https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhZb.json
     
-裤佬聚合点播
+聚合点播
     https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb
 
 
