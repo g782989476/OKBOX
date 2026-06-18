@@ -8,12 +8,6 @@ okbox
     
 裤佬聚合点播
     https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb
-    
-改自裤佬直播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlZb.m3u
-    
-改自裤佬点播
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/GzKlDb.txt
 
 
 #xxx
