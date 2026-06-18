@@ -26,3 +26,4 @@
              02 "https://github.com/cluntop/tvbox/blob/main/lib/iptv.m3u"
              03 "https://github.com/slasjh/tvlive/blob/main/live.m3u"
              04 "https://github.com/zilong7728/Collect-IPTV/blob/main/best_sorted.m3u"
+             05 "https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u"
