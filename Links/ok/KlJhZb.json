@@ -15,6 +15,16 @@
       "type": 1,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u"
     },
+    {
+      "name": "BBXX直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u"
+    },
+    {
+      "name": "GNTV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    },
     
     {
       "name": "裤佬TV直播",
