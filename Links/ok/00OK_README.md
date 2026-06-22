@@ -28,3 +28,4 @@
              04 "https://github.com/zilong7728/Collect-IPTV/blob/main/best_sorted.m3u"
              05 "https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u"
              06 "https://github.com/YueChan/Live/blob/main/GNTV.m3u"
+             07 "http://itv.tv1288.xyz/"
