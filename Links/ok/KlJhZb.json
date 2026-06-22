@@ -2,9 +2,10 @@
   "lives": [
     {
       "name": "ITV直播",
-      "type": 0,
+      "type": 1,
       "url": "http://itv.tv1288.xyz/"
     },
+    {
       "name": "土豆TV直播",
       "type": 1,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/live.m3u"
