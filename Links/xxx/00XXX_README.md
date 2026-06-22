@@ -36,7 +36,7 @@
         01关注："https://github.com/FFLLZZ/moon-config/blob/main/report.md"
                     
     Adult AvDb
-        01关注："失效不补"
+        01关注："https://github.com/ge6bu6/1/blob/main/丽影直播室.json"
         
     Adult JaDb
         01关注："失效不补"
