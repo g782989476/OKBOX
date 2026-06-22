@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "ITV直播",
-      "type": 1,
+      "type": 0,
       "url": "http://itv.tv1288.xyz/"
     },
       "name": "土豆TV直播",
