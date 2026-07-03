@@ -28,7 +28,15 @@
       "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u",
       "name": "Test 6号线路"
     },
-    
+    {
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u",
+      "name": "Test 7号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u",
+      "name": "Test 8号线路"
+    },
+
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
       "name": "1号线路"
