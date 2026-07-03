@@ -36,6 +36,14 @@
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u",
       "name": "Test 8号线路"
     },
+    {
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt",
+      "name": "Test 9号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt",
+      "name": "Test 10号线路"
+    },
 
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
