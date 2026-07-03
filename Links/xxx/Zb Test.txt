@@ -21,10 +21,11 @@ Adult
     网址07：https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u
            01关注：https://github.com/yihad168/tv/blob/main/live.m3u
            
-    网址08：
-           01关注：
-    网址09：
-           01关注：
+    网址08：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u
+           01关注：https://github.com/ge6bu6/1/raw/refs/heads/main/file/69.m3u
+
+    网址09：https://github.com/ge6bu6/1/raw/refs/heads/main/file/miss.m3u
+           01关注：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u
     网址10：
            01关注：
 
