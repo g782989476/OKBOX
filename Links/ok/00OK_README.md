@@ -9,6 +9,7 @@
     更新来源：01 "https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/stymei/tvbox"
              02 "https://github.com/qist/tvbox/blob/master/dianshi.json"
              03 "https://github.com/FGBLH/GHK/blob/main/海豚无18加555.json"
+             04 "https://github.com/FGBLH/GHK/blob/main/鱼壳海豚无18加.json"
 
     02
     影视采集站聚合
