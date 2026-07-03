@@ -26,6 +26,10 @@ Adult
 
     网址09：https://github.com/ge6bu6/1/raw/refs/heads/main/file/miss.m3u
            01关注：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u
-    网址10：
-           01关注：
+
+    网址10：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt
+           01关注：https://github.com/ge6bu6/1/blob/main/1.txt
+
+    网址11：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt
+           01关注：https://github.com/ge6bu6/1/blob/main/2.txt
 
