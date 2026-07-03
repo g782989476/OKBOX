@@ -8,7 +8,7 @@
     加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb"
     更新来源：01 "https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/stymei/tvbox"
              02 "https://github.com/qist/tvbox/blob/master/dianshi.json"
-             03 
+             03 "https://github.com/FGBLH/GHK/blob/main/海豚无18加555.json"
 
     02
     影视采集站聚合
