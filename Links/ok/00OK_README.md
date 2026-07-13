@@ -30,3 +30,4 @@
              05 "https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u"
              06 "https://github.com/YueChan/Live/blob/main/GNTV.m3u"
              07 "http://itv.tv1288.xyz/"
+             08 "https://github.com/yoursmile66/TVBox/blob/main/live.txt"
