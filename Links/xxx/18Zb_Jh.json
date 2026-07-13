@@ -44,7 +44,11 @@
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt",
       "name": "Test 10号线路"
     },
-
+    {
+      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/NSFW.txt",
+      "name": "Test 11号线路"
+    },
+    
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
       "name": "1号线路"
