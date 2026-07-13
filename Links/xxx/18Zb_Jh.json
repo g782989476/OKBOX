@@ -48,6 +48,18 @@
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/NSFW.txt",
       "name": "Test 11号线路"
     },
+    {
+      "url": "https://ilook.epg.one/BUYS9YTNABMC25",
+      "name": "Test 12号线路"
+    },
+    {
+      "url": "https://ilook.epg.one/GFGDU5GN37YRF8",
+      "name": "Test 13号线路"
+    },
+    {
+      "url": "https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5",
+      "name": "Test 14号线路"
+    },
     
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
