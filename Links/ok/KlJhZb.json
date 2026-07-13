@@ -24,6 +24,10 @@
       "name": "GNTV直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
     },
+     {
+      "name": "YourSmile直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt"
+    },
     
     {
       "name": "裤佬TV直播",
