@@ -1,15 +1,8 @@
 #ADULT 点播
 
-    18Db_tvbox-funJ
-        01关注："./fun.json",
-        02关注"./jar/gm.jar",
-        03关注"./js/jable.user.js"
-        
-    18Db_tvbox-funC
-        01关注：XOJAV
-                    "./fun.json",
-                    "./jar/gm.jar",
-                    "./js/jable.user.js"
+    fun.json
+        01关注："https://github.com/cluntop/tvbox/blob/main/fun.json",
+
                     
     18Db_dd-config22
         01关注："https://github.com/jayweiboy/dd/blob/main/config222.json"
