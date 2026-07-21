@@ -34,20 +34,16 @@
       "name": "4号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_tvbox-funC.txt",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
       "name": "5号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_tvbox-funJ.json",
+      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_xpg-av.json",
       "name": "6号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_xpg-av.json",
-      "name": "7号线路"
-    },
-    {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_jaychouqq-tvbox-file.json",
-      "name": "8号线路"
+      "name": "7号线路"
     }
   ]
 }
