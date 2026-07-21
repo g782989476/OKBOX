@@ -10,7 +10,7 @@
     18Db_yinshiyuan-tv18.json
         01关注："https://github.com/g782989476/yinshiyuan/blob/main/tv18.json"
 
-    18Db_NSFW-Spiders-index.json
+    index.json
         01关注："https://github.com/CatVodSpider-GM/NSFW-Spiders/blob/main/index.json"
 
     18Db_TV-BOX-ChunFuLi.json
