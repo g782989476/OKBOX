@@ -10,6 +10,7 @@
              02 "https://github.com/qist/tvbox/blob/master/dianshi.json"
              03 "https://github.com/FGBLH/GHK/blob/main/ok海豚无18加.json"
              04 "https://github.com/FGBLH/GHK/blob/main/Web鱼壳海豚无18加.json"
+             05 "https://github.com/alantang1977/X/blob/main/fish.json"
 
     02
     影视采集站聚合
