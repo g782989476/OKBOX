@@ -8,6 +8,10 @@
       "url": "https://raw.githubusercontent.com/wanganni/yinshiyuan/refs/heads/main/tv18.json",
       "name": "Test 2号线路"
     },
+    {
+      "url": "https://raw.githubusercontent.com/YJL20190405/TVBOX/refs/heads/main/jthl.json",
+      "name": "Test 3号线路"
+    },
     
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/xxxbox.json",
