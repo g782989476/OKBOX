@@ -4,7 +4,7 @@
         01关注："https://github.com/cluntop/tvbox/blob/main/fun.json",
 
                     
-    18Db_dd-config22
+    config222.json
         01关注："https://github.com/jayweiboy/dd/blob/main/config222.json"
         
     18Db_yinshiyuan-tv18.json
