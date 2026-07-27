@@ -51,7 +51,7 @@
   
       XXC
           01关注："https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt" , 
-          02关注："https://github.com/FGBLH/GHK/blob/main/xxx视频资源",
+          02关注："https://github.com/FGBLH/GHK/blob/main/xxx视频资源.txt",
           03关注："https://github.com/FGBLH/GHK/blob/main/安博.txt"
           
       XXM
