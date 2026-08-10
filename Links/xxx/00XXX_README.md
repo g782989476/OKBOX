@@ -53,6 +53,7 @@
           01关注："https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt" , 
           02关注："https://github.com/FGBLH/GHK/blob/main/xxx视频资源.txt",
           03关注："https://github.com/FGBLH/GHK/blob/main/安博.txt"
+          04关注："https://github.com/FGBLH/HKL/blob/main/午夜剧场.txt"
           
       XXM
           01关注："https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html"
