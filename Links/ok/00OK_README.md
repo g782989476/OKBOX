@@ -8,8 +8,8 @@
     加速地址："https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/KlJhDb"
     更新来源：01 "https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg"
              02 "https://github.com/qist/tvbox/blob/master/dianshi.json"
-             03 "https://github.com/FGBLH/GHK/blob/main/ok海豚665.json"
-             04 "https://github.com/FGBLH/GHK/blob/main/Web鱼壳海豚566.json"
+             03 "https://github.com/FGBLH/HKL/blob/main/ok海豚常规22.json"
+             04 "https://github.com/FGBLH/HKL/blob/main/Web鱼壳海豚常规23.json"
              05 "https://github.com/alantang1977/X/blob/main/fish.json"
 
     02
