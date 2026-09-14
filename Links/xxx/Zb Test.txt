@@ -48,3 +48,6 @@ Adult
     网址16：https://github.com/wliqi495-create/jaychouqq/blob/main/crzb1.m3u
            01关注：https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/crzb1.m3u
 
+    网址17：https://github.com/atsushi444/iptv/blob/main/0108.m3u
+           01关注：https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
+
