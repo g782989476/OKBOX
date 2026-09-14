@@ -27,7 +27,7 @@
     更新来源：01 "https://github.com/cluntop/tvbox/blob/main/lib/iptv.m3u"
              02 "https://github.com/slasjh/tvlive/blob/main/live.m3u"
              03 "https://github.com/zilong7728/Collect-IPTV/blob/main/best_sorted.m3u"
-             04 "https://github.com/kimwang1978/collect-txt/blob/main/bbxx.m3u"
+             04 "https://github.com/kimwang1978/collect-txt/blob/main/bbxx365.m3u"
              05 "https://github.com/YueChan/Live/blob/main/GNTV.m3u"
              06 "http://itv.tv1288.xyz/"
              07 "https://github.com/yoursmile66/TVBox/blob/main/live.txt"
