@@ -1,6 +1,16 @@
 {
   "lives": [
     {
+      "name": "裤佬TV直播",
+      "url": "https://live.445569.xyz/live.m3u"
+    },
+    
+    {
+      "name": "牛虎TV直播",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt"
+    },
+    
+    {
       "name": "游魂TV直播",
       "url": "https://www.iyouhun.com/tv/zb"
     },
@@ -35,10 +45,7 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt"
     },
     
-    {
-      "name": "裤佬TV直播",
-      "url": "https://live.445569.xyz/live.m3u"
-    },
+    
     
     {
       "name": "易发TV直播",
