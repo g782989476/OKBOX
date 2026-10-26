@@ -27,21 +27,6 @@
         
     xxxbox.json
         01关注："https://github.com/FFLLZZ/moon-config/blob/main/report.md"
-                    
-    Adult AvDb
-        01关注："https://github.com/ge6bu6/1/blob/main/丽影直播室.json"
-        
-    Adult JaDb
-        01关注："失效不补"
-        
-    HSCK
-        01关注："失效不补"
-        
-    Lbapi01
-        01关注："失效不补"
-        
-    Lbapi02
-        01关注："失效不补"
 
     Db Test
         01关注："网址在文件内"
@@ -51,28 +36,10 @@
   
       XXC
           01关注："https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt" , 
-          02关注："https://github.com/FGBLH/GHK/blob/main/xxx视频资源.txt",
-          03关注："https://github.com/FGBLH/GHK/blob/main/安博.txt"
-          04关注："https://github.com/FGBLH/HKL/blob/main/午夜剧场.txt"
-          
-      XXM
-          01关注："https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html"
-
-      XXE
-          01关注："http://xtvantsc.xyz/欧美2160.m3u",
-          02关注："https://ilook.epg.one/EDTZN7ANS84N86"
 
       XXT
           01关注："失效不补"
-          
-      XXD
-          01关注："https://github.com/wliqi495-create/jaychouqq/blob/main/洋片XD.m3u"
-          
-      Adult Om
-          01关注："失效不补"
-          
-      Zb Web
-          01关注："网址在文件内"
+
       Zb Test
           01关注："放置在文件内"
           
