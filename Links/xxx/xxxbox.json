@@ -58,7 +58,7 @@
       "key": "api_小鸡资源",
       "name": "小鸡资源",
       "type": 1,
-      "api": "https://api.xjzyapi.xyz/provide/vod",
+      "api": "https://api.xiaojizy.live/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -194,24 +194,6 @@
       "name": "souav",
       "type": 1,
       "api": "https://api.souavzyw.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "api_细胞资源",
-      "name": "细胞资源",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "api_香蕉资源",
-      "name": "香蕉资源",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
