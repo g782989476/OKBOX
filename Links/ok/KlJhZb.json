@@ -6,10 +6,6 @@
     },
     
     {
-      "name": "ITV直播",
-      "url": "http://itv.tv1288.xyz/"
-    },
-    {
       "name": "土豆TV直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/live.m3u"
     },
@@ -38,25 +34,10 @@
       "name": "裤佬TV直播",
       "url": "https://live.445569.xyz/live.m3u"
     },
-    {
-      "name": "日后TV直播",
-      "url": "http://rihou.cc:555/gggg.nzk"
-    },
-    {
-      "name": "涛涛TV直播",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
-    },
+    
     {
       "name": "易发TV直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    },
-    {
-      "name": "咪咕TV直播",
-      "url": "https://seep.eu.org/develop202.github.io/migu_video/interface.txt"
-    },
-    {
-      "name": "宫殿TV直播",
-      "url": "https://gongdian.top/tv/iptv"
     }
   ]
 }
