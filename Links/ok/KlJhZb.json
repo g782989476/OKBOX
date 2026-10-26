@@ -1,6 +1,11 @@
 {
   "lives": [
     {
+      "name": "游魂TV直播",
+      "url": "https://www.iyouhun.com/tv/zb"
+    },
+    
+    {
       "name": "电视家重生",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt"
     },
