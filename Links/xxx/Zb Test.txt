@@ -1,55 +1,26 @@
-Time：2026/7/13
+Time：2026/10/26
 Adult
     网址01：https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
            01关注：https://github.com/atsushi444/iptv/blob/main/adult.m3u
-           
-    网址02：https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u
-           01关注：https://github.com/atsushi444/iptv/blob/main/ttt.m3u
-           
-    网址03：https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/Playboy%20FHD%20(1).m3u
-           01关注：https://github.com/wliqi495-create/jaychouqq/blob/main/Playboy%20FHD%20(1).m3u
-           
-    网址04：https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u
+      
+    网址02：https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u
            01关注：https://github.com/fuxkjd/hsck
            
-    网址05：https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u
+    网址03：https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u
            01关注：https://github.com/bizopps/tv/blob/main/a.m3u
-           
-    网址06：https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8
-           01关注：https://github.com/a2256569/tv/refs/heads/main/playlist.m3u8
-           
-    网址07：https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u
-           01关注：https://github.com/yihad168/tv/blob/main/live.m3u
-           
-    网址08：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u
-           01关注：https://github.com/ge6bu6/1/raw/refs/heads/main/file/69.m3u
 
-    网址09：https://github.com/ge6bu6/1/raw/refs/heads/main/file/miss.m3u
-           01关注：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u
-
-    网址10：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt
+    网址04：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt
            01关注：https://github.com/ge6bu6/1/blob/main/1.txt
 
-    网址11：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt
+    网址05：https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt
            01关注：https://github.com/ge6bu6/1/blob/main/2.txt
 
-    网址12：https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/NSFW.txt
-           01关注：https://github.com/atsushi444/iptv/blob/main/NSFW.txt
+    网址06：https://ilook.epg.one/BUYS9YTNABMC25
 
-    网址13：https://ilook.epg.one/BUYS9YTNABMC25
-           01关注：https://github.com/ge6bu6/1/blob/main/%E9%93%BE%E6%8E%A5#L4C3-L4C39
+    网址07：https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5
 
-    网址14：https://ilook.epg.one/GFGDU5GN37YRF8
-           01关注：https://github.com/ge6bu6/1/blob/main/%E9%93%BE%E6%8E%A5#L4C3-L4C39
-
-    网址15：https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5
-           01关注：https://github.com/ge6bu6/1/blob/main/%E9%93%BE%E6%8E%A5#L4C3-L4C39
-
-    网址16：https://github.com/wliqi495-create/jaychouqq/blob/main/crzb1.m3u
+    网址08：https://github.com/wliqi495-create/jaychouqq/blob/main/crzb1.m3u
            01关注：https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/crzb1.m3u
 
-    网址17：https://github.com/atsushi444/iptv/blob/main/0108.m3u
+    网址09：https://github.com/atsushi444/iptv/blob/main/0108.m3u
            01关注：https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
-
-    网址18：https://github.com/wliqi495-create/jaychou123/blob/main/CR.m3u
-           01关注：https://raw.githubusercontent.com/wliqi495-create/jaychou123/refs/heads/main/CR.m3u
