@@ -1,24 +1,45 @@
 {
   "urls": 
         [ 
+          {"name": "裤佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg"},
+          {"name": "饭太硬", "url": "http://www.饭太硬.net/tv"},
+          {"name": "王小二", "url": "http://tvbox.王二小放牛娃.top"},
+          {"name": "摸鱼儿", "url": "http://我不是.摸鱼儿.top"},
+
+          {"name": "X4菠菜", "url": "https://0.wudaozhe.net/5/x4.json"},
+          {"name": "幸福年年", "url": "http://150.158.52.248/tgyg/bbm.json"},
+          {"name": "老张", "url": "https://zhangqun1818.serv00.net/zq/api.json"},
+          {"name": "挺好", "url": "https://ztha.top/TVBox/thdjk.json"},
+          {"name": "小马", "url": "https://szyyds.cn/tv/x.json"},
+          {"name": "周J", "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box"},
+          {"name": "菜妮丝", "url": "https://tv.菜妮丝.top"},
+          {"name": "心魔", "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"},
+          {"name": "俊宇", "url": "http://home.jundie.top:81/top98.json"},
+          {"name": "聚玩", "url": "http://xhztv.top/xhz/"},
+          {"name": "动漫", "url": "https://www.yingm.cc/dm/dm.json"},
+          {"name": "星微", "url": "https://7337.kstore.vip/xw/测试勿传"},
+          {"name": "动漫", "url": "https://www.yingm.cc/dm/dm.json"},
+          {"name": "动漫", "url": "https://www.yingm.cc/dm/dm.json"},
+          {"name": "动漫", "url": "https://www.yingm.cc/dm/dm.json"},
+          {"name": "动漫", "url": "https://www.yingm.cc/dm/dm.json"},
+
+
           {"name": "OKBOX", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/ok/okbox.json"},
           {"name": "DianShi", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json"},
           {"name": "Clun", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json"},
           {"name": "PG接口", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/jsm.json"},
           {"name": "张佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/aa.json"},
+          {"name": "牛虎", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"},
           
-          {"name": "裤佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg"},
-          {"name": "饭太硬", "url": "http://www.饭太硬.net/tv"},
-          {"name": "王小二", "url": "http://tvbox.王二小放牛娃.top"},
-          {"name": "摸鱼儿", "url": "http://www.小不点.com"},
           {"name": "小虎斑", "url": "http://hb.小虎斑.site:25252/仅供测试"},
           {"name": "肥猫", "url": "http://肥猫.net"},
-          {"name": "嗷呜", "url": "http://itv666.cc/aowu/config.webp"},
+          {"name": "嗷呜", "url": "http://www.英格里希嗷呜.top/tv"},
           {"name": "苹果", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/cxelva.json"},
           {"name": "南风", "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
           {"name": "雷蒙", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json"},
           {"name": "分享", "url": "https://gh-proxy.com/raw.githubusercontent.com/maoystv/6/main/001.json"},
           {"name": "哈基米", "url": "https://17264.kstore.space/哈基米.png"},
           {"name": "天神", "url": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png"}
+          {"name": "潇洒", "url": "https://0.wudaozhe.net/tvbox/潇洒.json"}
         ]
 }
