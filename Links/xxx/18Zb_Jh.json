@@ -2,86 +2,48 @@
   "urls": [
     {
       "url": "https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
-      "name": "Test 0号线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u",
       "name": "Test 1号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u",
+      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u",
       "name": "Test 2号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/Playboy%20FHD%20(1).m3u",
+      "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u",
       "name": "Test 3号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u",
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt",
       "name": "Test 4号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8",
+      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt",
       "name": "Test 5号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u",
+      "url": "https://ilook.epg.one/BUYS9YTNABMC25",
       "name": "Test 6号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u",
+      "url": "https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5",
       "name": "Test 7号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u",
+      "url": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/crzb1.m3u",
       "name": "Test 8号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt",
+      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u",
       "name": "Test 9号线路"
     },
+    
     {
-      "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt",
+      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXC.txt",
       "name": "Test 10号线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/NSFW.txt",
-      "name": "Test 11号线路"
-    },
-    {
-      "url": "https://ilook.epg.one/BUYS9YTNABMC25",
-      "name": "Test 12号线路"
-    },
-    {
-      "url": "https://ilook.epg.one/GFGDU5GN37YRF8",
-      "name": "Test 13号线路"
-    },
-    {
-      "url": "https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5",
-      "name": "Test 14号线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/crzb1.m3u",
-      "name": "Test 15号线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u",
-      "name": "Test 16号线路"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/wliqi495-create/jaychou123/refs/heads/main/CR.m3u",
-      "name": "Test 17号线路"
-    },
-    
-    
-
-    {
-      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXC.txt",
-      "name": "4号线路"
-    },
-    {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXT.txt",
-      "name": "13号线路" 
+      "name": "Test 11号线路" 
     }
   ]
 }
