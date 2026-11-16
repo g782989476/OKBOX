@@ -14,10 +14,3 @@
     
 18Zb_Jh
     https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Zb_Jh.json
-
-#Liber-TV
-Default
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/Liber-TV/LibreTV-App-settings-defualt.json
-
-18
-    https://gh-proxy.org/https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/Liber-TV/LibreTV-App-settings-18.json
