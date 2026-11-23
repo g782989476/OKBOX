@@ -4,6 +4,10 @@
       "name": "裤佬TV直播",
       "url": "https://live.445569.xyz/live.m3u"
     },
+    {
+      "name": "VBTV直播",
+      "url": "https://live.zbds.top/tv/iptv4.m3u"
+    },
     
     {
       "name": "牛虎TV直播",
@@ -44,9 +48,6 @@
       "name": "YourSmile直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt"
     },
-    
-    
-    
     {
       "name": "易发TV直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
