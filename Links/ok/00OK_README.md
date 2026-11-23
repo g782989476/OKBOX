@@ -30,3 +30,4 @@
              06 "https://iptv.445569.xyz/live.m3u"
              07 "https://github.com/yoursmile66/TVBox/blob/main/live.txt"
              08 "https://github.com/bang359/dsj/blob/main/dsjcs1.txt"
+             09 "https://github.com/vbskycn/iptv/blob/master/tv/iptv4.m3u"
